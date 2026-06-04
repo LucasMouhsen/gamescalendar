@@ -1,0 +1,594 @@
+[
+  {
+    "id": 169857,
+    "name": "Amira",
+    "summary": "Amira: A story driven adventure about a girl born in a middle eastern-fantasy world who finds by chance that her life is written and predetermined as she was helping her family, thus she fights for acceptance, love and writing her own life.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co57u3.jpg"
+    },
+    "artworks": [
+      {
+        "id": 624656,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scddzk.jpg"
+      },
+      {
+        "id": 624657,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scddzl.jpg"
+      },
+      {
+        "id": 624658,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scddzm.jpg"
+      },
+      {
+        "id": 624653,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scddzh.jpg"
+      },
+      {
+        "id": 624654,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scddzi.jpg"
+      },
+      {
+        "id": 624655,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scddzj.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://x.com/JondobGames"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC0flIOPxfzCDl0LbIsGVnmg/"
+      },
+      {
+        "url": "https://www.jondobgames.com/amira"
+      },
+      {
+        "url": "https://store.steampowered.com/app/1371640"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Amira"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2028-02-25",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 396614,
+    "name": "Galactic Civilizations IV: Tales of the Snathi",
+    "summary": "The Snathi have finally broken free. Scavenge the wreckage of your enemies and claim your birthright as the true heirs of the Dread Lords.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobutu.jpg"
+    },
+    "artworks": [],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/4374580"
+      },
+      {
+        "url": "https://www.galciv4.com/"
+      },
+      {
+        "url": "https://www.youtube.com/@stardockgames/"
+      },
+      {
+        "url": "https://discord.gg/galciv"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "developer": [
+      {
+        "id": 13083,
+        "name": "Stardock Entertainment"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 13083,
+        "name": "Stardock Entertainment"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2028-03-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 397987,
+    "name": "Withering Age",
+    "summary": "Withering Age is a real-time strategy roguelike set in a dark fantasy, medieval world brimming with magic, danger, and decay. Build and expand your kingdom, train loyal troops and mighty champions, and defend your lands against relentless hordes.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwul.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1815490,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wua.jpg"
+      },
+      {
+        "id": 1815491,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wub.jpg"
+      },
+      {
+        "id": 1815484,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wu4.jpg"
+      },
+      {
+        "id": 1815485,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wu5.jpg"
+      },
+      {
+        "id": 1815486,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wu6.jpg"
+      },
+      {
+        "id": 1815487,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wu7.jpg"
+      },
+      {
+        "id": 1815488,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wu8.jpg"
+      },
+      {
+        "id": 1815489,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12wu9.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/3960090"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/category/withering-age"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 75793,
+        "name": "Cogfire Studios"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 75793,
+        "name": "Cogfire Studios"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2028-09-30",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 211175,
+    "name": "King of Conquerors",
+    "summary": "Your journey from adventurer to king will begin here!",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ik6.jpg"
+    },
+    "artworks": [],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/1745920"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/King%20of%20Conquerors"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2028-09-30",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 393100,
+    "name": "Wonderful Neoran Valley",
+    "summary": "Wonderful Neoran Valley is a Monster Collector Roguelite experience, in which you will have to convince the creatures you meet to follow you and fight by your side, on your way to uncovering the dark secret that plagues the Neoran Valley.\nYes, you read that correctly: Roguelite!",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobojo.jpg"
+    },
+    "artworks": [],
+    "videos": [
+      {
+        "id": 177317,
+        "video_id": "UiJFEawf7Ao"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://wonderfulneoranvalley.com/"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCv444s8kubQrDDzbc8QAJhw"
+      }
+    ],
+    "genres": [
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 1,
+    "date": "2028-12-31",
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2",
+      "slug": "switch-2",
+      "abbreviation": "NS2"
+    },
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2",
+        "slug": "switch-2",
+        "abbreviation": "NS2"
+      }
+    ]
+  },
+  {
+    "id": 357519,
+    "name": "Bound City",
+    "summary": "An action-packed and bittersweet adventure in a city of endless night. Explore the dying city and try to find your way to the tower that seems to be at the heart of it all. Nothing is quite as it appears to be, and only by facing death can you hope to understand the mysteries of Bound City.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6s7.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1595111,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6sn.jpg"
+      },
+      {
+        "id": 1595112,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6so.jpg"
+      },
+      {
+        "id": 1595113,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6sp.jpg"
+      },
+      {
+        "id": 1595114,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6sq.jpg"
+      },
+      {
+        "id": 1595115,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6sr.jpg"
+      },
+      {
+        "id": 1595116,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6ss.jpg"
+      },
+      {
+        "id": 1595117,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6st.jpg"
+      },
+      {
+        "id": 1595118,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scy6su.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 157331,
+        "video_id": "D163pYxN3Ws"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/3871260"
+      },
+      {
+        "url": "https://www.problemmachine.com/bound-city/"
+      },
+      {
+        "url": "https://www.youtube.com/@problemmachine6964"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 65979,
+        "name": "Problem Machine"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 65979,
+        "name": "Problem Machine"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2028-12-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 163856,
+    "name": "All the King's Men",
+    "summary": "A classic-styled, turn-based, 2D RPG with 60+ hours of open-world questing and exploration.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ld6.jpg"
+    },
+    "artworks": [
+      {
+        "id": 583967,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilb.jpg"
+      },
+      {
+        "id": 583970,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccile.jpg"
+      },
+      {
+        "id": 583973,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilh.jpg"
+      },
+      {
+        "id": 583975,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilj.jpg"
+      },
+      {
+        "id": 583976,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilk.jpg"
+      },
+      {
+        "id": 583980,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilo.jpg"
+      },
+      {
+        "id": 583983,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilr.jpg"
+      },
+      {
+        "id": 583985,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sccilt.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://www.twitch.tv/directory/game/All%20the%20King's%20Men"
+      },
+      {
+        "url": "https://store.steampowered.com/app/1578150"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2028-12-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  }
+]

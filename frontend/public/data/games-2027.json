@@ -1,0 +1,1961 @@
+[
+  {
+    "id": 391581,
+    "name": "CyberQuest",
+    "summary": "Explore CyberQuest, where your decisions define you. Journey from a novice freelancer to a skilled hacker. Choose your path: white hat, black hat, or hacktivist, and embrace the cyber challenge!",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobl9a.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1782960,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qo.jpg"
+      },
+      {
+        "id": 1782961,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qp.jpg"
+      },
+      {
+        "id": 1782962,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qq.jpg"
+      },
+      {
+        "id": 1782964,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qs.jpg"
+      },
+      {
+        "id": 1782965,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qt.jpg"
+      },
+      {
+        "id": 1782966,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qu.jpg"
+      },
+      {
+        "id": 1782969,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qx.jpg"
+      },
+      {
+        "id": 1782971,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc127qz.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/3805560"
+      },
+      {
+        "url": "https://dincelli.com/"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-01-01",
+    "platform": {
+      "id": 3,
+      "name": "Linux",
+      "slug": "linux",
+      "abbreviation": "LIN"
+    },
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux",
+        "slug": "linux",
+        "abbreviation": "LIN"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      },
+      {
+        "id": 14,
+        "name": "Mac",
+        "slug": "mac",
+        "abbreviation": "MAC"
+      }
+    ]
+  },
+  {
+    "id": 372392,
+    "name": "Stranded in the Abyss",
+    "summary": "Stranded in the abyss is a shoot-em-up in a unique sci-fi sci-environment where you command a massive squad of ships in an endless war Against an evil rebellion. Shoot command and bomb your way through hundreds of enemy fighters, capital ships, and skirmishes.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coand6.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1662415,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczmq7.jpg"
+      },
+      {
+        "id": 1662411,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczmq3.jpg"
+      },
+      {
+        "id": 1662412,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczmq4.jpg"
+      },
+      {
+        "id": 1662414,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczmq6.jpg"
+      },
+      {
+        "id": 1662413,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczmq5.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/3671780"
+      },
+      {
+        "url": "https://www.youtube.com/@Studio_cyberturtle"
+      },
+      {
+        "url": "https://bsky.app/profile/studiocyberturtle.bsky.social"
+      },
+      {
+        "url": "https://www.instagram.com/cyber_turtle2099/?igsh=MTRlZnZweWd4dTl4Zg%3D%3D&utm_source=qr#"
+      },
+      {
+        "url": "https://x.com/cyber__turtle?s=21"
+      }
+    ],
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-01-06",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 346183,
+    "name": "Aftershock",
+    "summary": "Put yourself in the shoes of a combat veteran. Can you handle the hardships that come with a life of solitude?",
+    "storyline": "Nikolai, broken by his past as a soldier, relives the same pain day after day. Will you be able to walk this path with him and face his struggles, or will it all end… in tragedy?\n\nMemories of the past collide with the present, creating distorted visions, where the line between home and the battlefield grows ever thinner. You will have to make choices that lead to different endings. But what if the truth isn’t what you remember?",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vvj.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1542594,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scx29u.jpg"
+      },
+      {
+        "id": 1542595,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scx29v.jpg"
+      },
+      {
+        "id": 1542596,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scx29w.jpg"
+      },
+      {
+        "id": 1542597,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scx29x.jpg"
+      },
+      {
+        "id": 1542598,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scx29y.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 151808,
+        "video_id": "fB_9GzFrZqk"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://bsky.app/profile/radfeller.bsky.social"
+      },
+      {
+        "url": "https://twitter.com/radfeller25"
+      },
+      {
+        "url": "https://store.steampowered.com/app/3486500"
+      },
+      {
+        "url": "https://radfeller.itch.io/aftershock"
+      },
+      {
+        "url": "https://www.youtube.com/@Radfeller"
+      },
+      {
+        "url": "https://discord.gg/xR7tfAF5"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [
+      {
+        "id": 64190,
+        "name": "PrimGames"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 1,
+    "date": "2027-02-01",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 391475,
+    "name": "Shatterswarm",
+    "summary": "Shatterswarm is a narrative-driven 2D space shooter that combines direct ship combat, fleet command, tower defense, and base building into a strategic colony survival experience. Command Captain Hope's hero ship as you defend Earth's last bastion, The Citadel, against the relentless Voxan Empire.\n\nTake control of your hero ship in intense 2D space combat while simultaneously building and managing a fleet of ships, constructing defensive networks around your citadel, and managing resources to survive wave after wave of alien invaders. Every decision matters as you balance offensive capabilities with defensive structures, all while facing unique enemy types that require different strategies to defeat.\n\nThe game features a diverse roster of challenging enemies, each with distinct mechanics: parasites that hack into and take control of your own ships, motherships that spawn smaller vessels, deflectors that fire your projectiles back at you, and robotic enemies that latch onto your ships and tear them apart. Face off against epic multi-phase boss battles against Voxan commanders Gordox, Gudrak, and the dreaded General Mortex.\n\nWith its perfect blend of action, strategy, and base building, Shatterswarm offers a unique short game experience where tactical thinking and quick reflexes are both essential for survival. The Citadel's survival depends on your strategy—will you focus on overwhelming firepower, impenetrable defenses, or a balanced approach?",
+    "storyline": "Earth, Once a lush planet, teeming with life, is now a burning, desolate ruin. We set out towards the nearest habitable planet, Proxima Centauri B, but we arrived too late. The Voxans rule the solar system with an iron fist. They are a brutal, power-hungry race. Billions of slaves from throughout the galaxy power their war machine, and unless we are careful, we will be their next captives. We have settled on one of Proxima's moons, which will be out home until we decide on our next steps.",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobll2.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1782238,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276m.jpg"
+      },
+      {
+        "id": 1782237,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276l.jpg"
+      },
+      {
+        "id": 1782239,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276n.jpg"
+      },
+      {
+        "id": 1782240,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276o.jpg"
+      },
+      {
+        "id": 1782241,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276p.jpg"
+      },
+      {
+        "id": 1782242,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276q.jpg"
+      },
+      {
+        "id": 1782243,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276r.jpg"
+      },
+      {
+        "id": 1782244,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc1276s.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 176468,
+        "video_id": "eKg12KjwMsU"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://www.facebook.com/profile.php?id=61588217424003"
+      },
+      {
+        "url": "https://www.youtube.com/@IronFinGames"
+      },
+      {
+        "url": "https://discord.gg/J72zRxxM"
+      },
+      {
+        "url": "https://store.steampowered.com/app/4421190/Shatterswarm/"
+      },
+      {
+        "url": "https://ironfingames.com/"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 74213,
+        "name": "Iron Fin Games"
+      }
+    ],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-02-03",
+    "platform": {
+      "id": 3,
+      "name": "Linux",
+      "slug": "linux",
+      "abbreviation": "LIN"
+    },
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux",
+        "slug": "linux",
+        "abbreviation": "LIN"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      },
+      {
+        "id": 14,
+        "name": "Mac",
+        "slug": "mac",
+        "abbreviation": "MAC"
+      }
+    ]
+  },
+  {
+    "id": 395673,
+    "name": "Reanimal: The Expanded World - Chapter 3",
+    "summary": "",
+    "storyline": "",
+    "cover": null,
+    "artworks": [],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/reanimal-the-expanded-world-chapter-3-70050000066775-switch-2/"
+      }
+    ],
+    "genres": [],
+    "game_modes": [],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-02-09",
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2",
+      "slug": "switch-2",
+      "abbreviation": "NS2"
+    },
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2",
+        "slug": "switch-2",
+        "abbreviation": "NS2"
+      }
+    ]
+  },
+  {
+    "id": 384353,
+    "name": "Wake Up",
+    "summary": "Wake Up is a thrilling 2D/3D adventure game made by R16studio. Dive into a world full of mystery, puzzles, psychological horror, and tension where every choice matters.\nAre you ready to wake up and find the truth or maybe not.",
+    "storyline": "You wake up in a strange room with no memory of how you got there. The room is filled with strange objects, puzzles, and notes. Slowly, you begin to uncover the truth about yourself and your past.\n\nAlex, the protagonist, is the only successful experiment of a sinister doctor.\n\nAmmy, Alex's wife, ready to do anything to save Alex.\n\nEli, Alex and Ammy child.\n\nMysterios Man, a mysterious man, saved Alex and locked him in the room to protect him.\n\nAlex must complete tasks, solve puzzles, and collect documents to confront the doctor.",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob84c.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1734195,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11643.jpg"
+      },
+      {
+        "id": 1734196,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11644.jpg"
+      },
+      {
+        "id": 1734193,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11641.jpg"
+      },
+      {
+        "id": 1734194,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11642.jpg"
+      },
+      {
+        "id": 1734197,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11645.jpg"
+      },
+      {
+        "id": 1734198,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11646.jpg"
+      },
+      {
+        "id": 1735564,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11764.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 172655,
+        "video_id": "U0pwMsWQztc"
+      },
+      {
+        "id": 173622,
+        "video_id": "7MxK4Yu6IUk"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://r16studio.itch.io/wake-up"
+      },
+      {
+        "url": "https://r16studio.com/"
+      },
+      {
+        "url": "https://r16studio.com/wake-up-game"
+      },
+      {
+        "url": "https://x.com/r16_studio"
+      },
+      {
+        "url": "https://www.instagram.com/r16studio_dev/"
+      },
+      {
+        "url": "https://www.youtube.com/@trifon4o"
+      },
+      {
+        "url": "https://www.reddit.com/user/trifon1402/"
+      },
+      {
+        "url": "https://discord.gg/z7ebAZbPuS"
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61586823293750"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 72825,
+        "name": "R16 Studio"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 72825,
+        "name": "R16 Studio"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 1,
+    "date": "2027-02-14",
+    "platform": {
+      "id": 34,
+      "name": "Android",
+      "slug": "android",
+      "abbreviation": "AND"
+    },
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android",
+        "slug": "android",
+        "abbreviation": "AND"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 397883,
+    "name": "Hexceed: Alphard",
+    "summary": "",
+    "storyline": "",
+    "cover": null,
+    "artworks": [
+      {
+        "id": 1814607,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12w5r.jpg"
+      },
+      {
+        "id": 1814608,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12w5s.jpg"
+      },
+      {
+        "id": 1814609,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12w5t.jpg"
+      },
+      {
+        "id": 1814610,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12w5u.jpg"
+      },
+      {
+        "id": 1814611,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12w5v.jpg"
+      },
+      {
+        "id": 1814606,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12w5q.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/alphard-70050000070108-switch/"
+      }
+    ],
+    "genres": [],
+    "game_modes": [],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-02-25",
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch",
+      "slug": "switch",
+      "abbreviation": "NS"
+    },
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch",
+        "slug": "switch",
+        "abbreviation": "NS"
+      }
+    ]
+  },
+  {
+    "id": 360602,
+    "name": "Kiipluu",
+    "summary": "Kiipluu is a hardcore stealth adventure set in a brutal Neolithic world.\n\nEvery encounter is a tense survival puzzle. Study patrol routes, use tall grass, shadows, sound, and terrain to stay hidden. Set traps, strike from ambush, or slip past unseen. Being discovered can quickly become fatal.\n\nWhen stealth fails, combat is fast, brutal, and unforgiving. Weapons are primitive. Injuries matter. There are no easy victories.\n\nAlong the way, Kiipluu is haunted by dreamlike spirit journeys and visions of his father, a legendary hunter whose shadow looms over every choice. Your decisions shape who survives, who is lost, and what kind of person Kiipluu becomes.\n\nThis is a story of fear, survival, and growing up in a world that wants you dead.",
+    "storyline": "Hunted across a savage Neolithic world by the cannibalistic Na’ush, Kiipluu must survive using stealth, wit, and nerve. Every shadow is a hiding place. Every mistake could be his last. As danger closes in and spirits haunt his path, will he reach home… or be broken by the journey?",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobg92.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1755310,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11mem.jpg"
+      },
+      {
+        "id": 1755308,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11mek.jpg"
+      },
+      {
+        "id": 1755309,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11mel.jpg"
+      },
+      {
+        "id": 1755313,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11mep.jpg"
+      },
+      {
+        "id": 1755314,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11meq.jpg"
+      },
+      {
+        "id": 1755311,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11men.jpg"
+      },
+      {
+        "id": 1755307,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11mej.jpg"
+      },
+      {
+        "id": 1755312,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11meo.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 158766,
+        "video_id": "dyuHwrvBg_Y"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://x.com/KIIPLUU_game"
+      },
+      {
+        "url": "https://www.instagram.com/kiipluupc/"
+      },
+      {
+        "url": "https://store.steampowered.com/app/3826710/Kiipluu/"
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61577622260892"
+      },
+      {
+        "url": "https://discord.gg/fYw7syCTSK"
+      },
+      {
+        "url": "https://niekoplay.com/"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 66607,
+        "name": "Nieko Games"
+      },
+      {
+        "id": 32245,
+        "name": "Nieko"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 32245,
+        "name": "Nieko"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 1,
+    "date": "2027-03-01",
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S",
+      "slug": "xbox-series",
+      "abbreviation": "XSX"
+    },
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S",
+        "slug": "xbox-series",
+        "abbreviation": "XSX"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5",
+        "slug": "ps5",
+        "abbreviation": "PS5"
+      }
+    ]
+  },
+  {
+    "id": 398419,
+    "name": "The Concrete Sutra #1",
+    "summary": "A post-apocalyptic world. Two friends haven't seen each other for 5 years are heading back home on a bike. The first episode of an epic action jrpg by yeo.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxhc.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1817411,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12ybn.jpg"
+      },
+      {
+        "id": 1817412,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12ybo.jpg"
+      },
+      {
+        "id": 1817413,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12ybp.jpg"
+      },
+      {
+        "id": 1817414,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12ybq.jpg"
+      },
+      {
+        "id": 1817410,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc12ybm.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 181204,
+        "video_id": "Q-Sqv-4CUls"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/4586810"
+      },
+      {
+        "url": "http://sutra.by-yeo.ru/"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 15830,
+        "name": "yeo"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 15830,
+        "name": "yeo"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-03-01",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 374617,
+    "name": "Seasons Turning",
+    "summary": "A farming/life sim focused on exploration and immersion. There's no stamina bar and no broken tools. Aside from the genre's norms, it has four puzzle-filled dungeons, secret locations, irrigation, gene splicing, mafia kittens, and one rusty, well-loved bicycle. Save whenever. Play at your own speed.",
+    "storyline": "You’ve just turned 18. You're ready to leave the orphanage and start life as an independent adult. Your sister is over-the-moon excited to come with you. She wants to see what's out in the world, but she’s still 13, and the matron informs you that you must prove you can support your sister before you can adopt her.\n\nYou need a stable income, a safe home, emotional maturity. Right now you’re barely batting one of three.\n\nThe matron hands you a job advert. A recent widow needs help maintaining her land. It’s far and barely pays, but it’s a start. You’ll have to work your way up before you and your sister can be reunited for good.",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapwz.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1678147,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv7.jpg"
+      },
+      {
+        "id": 1678148,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv8.jpg"
+      },
+      {
+        "id": 1678143,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv3.jpg"
+      },
+      {
+        "id": 1678144,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv4.jpg"
+      },
+      {
+        "id": 1678145,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv5.jpg"
+      },
+      {
+        "id": 1678146,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv6.jpg"
+      },
+      {
+        "id": 1678149,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyv9.jpg"
+      },
+      {
+        "id": 1678150,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sczyva.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 165689,
+        "video_id": "IT7AXEfMYhk"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/3105040"
+      },
+      {
+        "url": "https://www.youtube.com/@InfiniteDistraction"
+      },
+      {
+        "url": "https://www.turninggame.com/"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 70569,
+        "name": "Infinite Distraction"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 70569,
+        "name": "Infinite Distraction"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-03-01",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 349664,
+    "name": "Ash and Flame",
+    "summary": "Ash and Flame is an interactive cinematic thriller set in the dark fantasy world of Erwintal. You are Raynar, a war veteran who takes up his sword once more to face an ancient evil. Your choices shape the kingdom’s fate: ashes… or the flame of hope.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9zi2.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1564909,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxjhp.jpg"
+      },
+      {
+        "id": 1564907,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxjhn.jpg"
+      },
+      {
+        "id": 1564908,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxjho.jpg"
+      },
+      {
+        "id": 1564911,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxjhr.jpg"
+      },
+      {
+        "id": 1564906,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxjhm.jpg"
+      },
+      {
+        "id": 1564910,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxjhq.jpg"
+      },
+      {
+        "id": 1613491,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scykz7.jpg"
+      },
+      {
+        "id": 1613493,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scykz9.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 169933,
+        "video_id": "smr_-P67738"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/3761130"
+      },
+      {
+        "url": "https://discord.gg/VgYHPWfCNW"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/category/ash-and-flame"
+      },
+      {
+        "url": "https://www.youtube.com/@PortalInWorlds"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 64566,
+        "name": "Worlds In Portal"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 64566,
+        "name": "Worlds In Portal"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 1,
+    "date": "2027-03-16",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 279621,
+    "name": "Exodus",
+    "summary": "Exodus is an epic new sci-fi action-adventure RPG franchise developed by the team at Archetype Entertainment. The story is fueled by the consequences of player choices due to the impact of Time Dilation and how they change the lives of those we love most.",
+    "storyline": "In Exodus, humanity has been forced to abandon Earth and establish a new civilization in a hostile galaxy. Players are the Traveler, a person tasked with exploring far-off solar systems for advanced alien technology. What the Traveler counts in days, the rest of humanity experiences in decades. With this conceit, players' choices will cause butterfly effects to ripple across humanity's new planet, particularly in the lives of their own loved ones, and the Traveler will watch these play out over generations.",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaott.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1206620,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scpv18.jpg"
+      },
+      {
+        "id": 1206621,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scpv19.jpg"
+      },
+      {
+        "id": 1206622,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scpv1a.jpg"
+      },
+      {
+        "id": 1206619,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scpv17.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 103095,
+        "video_id": "iX0eEZvCJcg"
+      },
+      {
+        "id": 103096,
+        "video_id": "WAKAZNQuLqw"
+      },
+      {
+        "id": 135923,
+        "video_id": "DmJxSKn47EE"
+      },
+      {
+        "id": 170957,
+        "video_id": "_c80LMt_Uxs"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://www.facebook.com/EXODUSGameOfficial"
+      },
+      {
+        "url": "https://www.instagram.com/exodusgameofficial/"
+      },
+      {
+        "url": "https://www.youtube.com/@EXODUSGameOfficial"
+      },
+      {
+        "url": "https://www.xbox.com/en-us/games/store/exodus/9nzrhch0pl9b"
+      },
+      {
+        "url": "https://store.playstation.com/en-us/concept/10013615/"
+      },
+      {
+        "url": "https://bsky.app/profile/exodusgameofficial.bsky.social"
+      },
+      {
+        "url": "https://store.steampowered.com/app/3230960/EXODUS/"
+      },
+      {
+        "url": "https://epicgames.com/p/exodus-67511f"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Exodus_(2027_video_game)"
+      },
+      {
+        "url": "https://twitter.com/ArchetypeEnt"
+      },
+      {
+        "url": "https://www.exodusgame.com/en-US"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/category/exodus-4"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 51428,
+        "name": "Archetype Entertainment"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 1023,
+        "name": "Wizards of the Coast"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 91,
+    "date": "2027-03-31",
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S",
+      "slug": "xbox-series",
+      "abbreviation": "XSX"
+    },
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S",
+        "slug": "xbox-series",
+        "abbreviation": "XSX"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5",
+        "slug": "ps5",
+        "abbreviation": "PS5"
+      }
+    ]
+  },
+  {
+    "id": 238718,
+    "name": "Nine Rounds Rapid",
+    "summary": "A fast paced, super stylized, roguelike, twin stick shooter. Nine levels of designed, hand painted and procedurally generated, punchy and punky fast mayhem in a uniquely stunning attitude filled world.",
+    "storyline": "Set on a possessed, fragmenting space station, two fugitives (an underrabbit and a broken robot) must attempt the impossible and get to the source of the possession to claim their freedom and the spoils.",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak4h.jpg"
+    },
+    "artworks": [
+      {
+        "id": 998876,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqk.jpg"
+      },
+      {
+        "id": 998878,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqm.jpg"
+      },
+      {
+        "id": 998882,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqq.jpg"
+      },
+      {
+        "id": 998885,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqt.jpg"
+      },
+      {
+        "id": 998887,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqv.jpg"
+      },
+      {
+        "id": 998890,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqy.jpg"
+      },
+      {
+        "id": 998891,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scleqz.jpg"
+      },
+      {
+        "id": 998895,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scler3.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 160634,
+        "video_id": "4cQDXkJjg2U"
+      },
+      {
+        "id": 169967,
+        "video_id": "kEVZE5nMuVY"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://bsky.app/profile/nineroundsrapid.bsky.social"
+      },
+      {
+        "url": "https://epicgames.com/p/nine-rounds-rapid-cc57e1"
+      },
+      {
+        "url": "https://x.com/SW_LY_Games"
+      },
+      {
+        "url": "https://www.instagram.com/nineroundsrapid/"
+      },
+      {
+        "url": "http://www.nineroundsrapid.com"
+      },
+      {
+        "url": "https://store.steampowered.com/app/2259390"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/category/nine-rounds-rapid"
+      },
+      {
+        "url": "https://www.youtube.com/@nineroundsrapid"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 2,
+    "date": "2027-03-31",
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S",
+      "slug": "xbox-series",
+      "abbreviation": "XSX"
+    },
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S",
+        "slug": "xbox-series",
+        "abbreviation": "XSX"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5",
+        "slug": "ps5",
+        "abbreviation": "PS5"
+      }
+    ]
+  },
+  {
+    "id": 224728,
+    "name": "Super Cucumber",
+    "summary": "Super Cucumber is a 16-bit inspired action-adventure game filled with tight platforming, unlockable abilities and plenty of secrets to discover. Traverse more than six towers and overcome dozens of levels, fight your way past devious bosses and become the greatest Aardvark Superhero in the world!",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7iff.jpg"
+    },
+    "artworks": [
+      {
+        "id": 920128,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scjpz4.jpg"
+      },
+      {
+        "id": 920120,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scjpyw.jpg"
+      },
+      {
+        "id": 920122,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scjpyy.jpg"
+      },
+      {
+        "id": 920124,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scjpz0.jpg"
+      },
+      {
+        "id": 920127,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scjpz3.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 104281,
+        "video_id": "PdjkzEUs-Ho"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://bsky.app/profile/cubicorngames.com"
+      },
+      {
+        "url": "https://store.steampowered.com/app/522290"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/game/Super%20Cucumber"
+      },
+      {
+        "url": "https://cubicorngames.com/SuperCucumber.aspx"
+      },
+      {
+        "url": "https://twitter.com/CubicornGames"
+      },
+      {
+        "url": "https://www.youtube.com/@cubicorngames"
+      },
+      {
+        "url": "https://discord.gg/invite/S7xJwFvkDt"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 41628,
+        "name": "Cubicorn Games"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 41628,
+        "name": "Cubicorn Games"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-03-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 383457,
+    "name": "On Tape << Rewind",
+    "summary": "On Tape << Rewind is a psychological horror story told through cassette tapes. Play recordings, search for clues, discover hidden cassettes, and manipulate audio. Unravel the mystery of a scientist’s disappearance and the obsession that consumed him — tape by tape.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5l0.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1729317,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc112cl.jpg"
+      },
+      {
+        "id": 1729319,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc112cn.jpg"
+      },
+      {
+        "id": 1729325,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc112ct.jpg"
+      },
+      {
+        "id": 1729323,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc112cr.jpg"
+      },
+      {
+        "id": 1729327,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc112cv.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://www.youtube.com/@pixforkgames"
+      },
+      {
+        "url": "https://discord.gg/SyU3hz9xHB"
+      },
+      {
+        "url": "https://www.facebook.com/pixfork"
+      },
+      {
+        "url": "https://store.steampowered.com/app/2316280"
+      },
+      {
+        "url": "https://pixfork.com/"
+      },
+      {
+        "url": "https://www.instagram.com/pixfork_games/"
+      },
+      {
+        "url": "https://x.com/pixforkgames/"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 72590,
+        "name": "Pixfork Games"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 72590,
+        "name": "Pixfork Games"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-04-01",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 389749,
+    "name": "Matchward",
+    "summary": "Tower defense empowered by match 3 puzzle strategy. Level up and unlock potentially game-breaking upgrades. Design your own levels and share them.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobj1a.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1771026,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11yj6.jpg"
+      },
+      {
+        "id": 1771025,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11yj5.jpg"
+      },
+      {
+        "id": 1771028,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11yj8.jpg"
+      },
+      {
+        "id": 1771029,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11yj9.jpg"
+      },
+      {
+        "id": 1771027,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc11yj7.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://store.steampowered.com/app/4290560"
+      },
+      {
+        "url": "https://wetworkstudio.com"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 0,
+    "date": "2027-04-01",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 381202,
+    "name": "The Free Shepherd",
+    "summary": "Run fast and free as a sheepdog in a beautiful but troubled world. Herd masses of lost sheep to a secret refuge. Discover a mysterious calamity that only you can stop.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0eg.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1717570,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc10taa.jpg"
+      },
+      {
+        "id": 1717572,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc10tac.jpg"
+      },
+      {
+        "id": 1717573,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc10tad.jpg"
+      },
+      {
+        "id": 1717574,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc10tae.jpg"
+      },
+      {
+        "id": 1717575,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc10taf.jpg"
+      },
+      {
+        "id": 1717571,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/sc10tab.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 170925,
+        "video_id": "XsOdlfhdk78"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://thefreeshepherd.dog"
+      },
+      {
+        "url": "https://store.steampowered.com/app/939530"
+      },
+      {
+        "url": "https://www.twitch.tv/directory/category/the-free-shepherd"
+      },
+      {
+        "url": "https://store.playstation.com/en-us/concept/10016363"
+      },
+      {
+        "url": "https://bsky.app/profile/frameinteractive.com"
+      },
+      {
+        "url": "https://instagram.com/frameinteractive"
+      },
+      {
+        "url": "https://youtube.com/@frameinteractive2252"
+      },
+      {
+        "url": "https://x.com/frameint"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 11303,
+        "name": "Frame Interactive"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 11303,
+        "name": "Frame Interactive"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 22,
+    "date": "2027-12-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5",
+        "slug": "ps5",
+        "abbreviation": "PS5"
+      }
+    ]
+  },
+  {
+    "id": 350213,
+    "name": "Tsarevna: Age of Tales",
+    "summary": "The world’s first ballet-inspired action slasher! Where grace turns into violence and revenge consumes the soul. Master breathtaking, fluid combat, slaughter the servants of Darkness, and step into the war against the Slavic gods.",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxhz.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1567507,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxlhv.jpg"
+      },
+      {
+        "id": 1567508,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxlhw.jpg"
+      },
+      {
+        "id": 1567509,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxlhx.jpg"
+      },
+      {
+        "id": 1567510,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxlhy.jpg"
+      },
+      {
+        "id": 1567511,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxlhz.jpg"
+      },
+      {
+        "id": 1567512,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxli0.jpg"
+      },
+      {
+        "id": 1567513,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxli1.jpg"
+      },
+      {
+        "id": 1567514,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scxli2.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "id": 154154,
+        "video_id": "jEAe604BZHE"
+      },
+      {
+        "id": 181228,
+        "video_id": "J0VE-lCdQqw"
+      }
+    ],
+    "websites": [
+      {
+        "url": "https://x.com/Wattstudiogames"
+      },
+      {
+        "url": "https://www.facebook.com/wattstudio.art"
+      },
+      {
+        "url": "https://discord.gg/3fKggw8qQG"
+      },
+      {
+        "url": "https://www.youtube.com/@watt_studio/videos"
+      },
+      {
+        "url": "https://www.instagram.com/watt.studio/"
+      },
+      {
+        "url": "https://store.steampowered.com/app/3348640"
+      },
+      {
+        "url": "https://bsky.app/profile/wattstudio.bsky.social"
+      },
+      {
+        "url": "https://t.me/wattstudio"
+      }
+    ],
+    "genres": [],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [
+      {
+        "id": 39164,
+        "name": "Watt Studio"
+      }
+    ],
+    "publisher": [
+      {
+        "id": 39164,
+        "name": "Watt Studio"
+      }
+    ],
+    "total_rating": 0,
+    "hypes": 4,
+    "date": "2027-12-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  },
+  {
+    "id": 334035,
+    "name": "Into the Void",
+    "summary": "Into The Void is an action packed high-speed retro shooter that follows the story of John Void, a man returned from the dead with no memories. Will you uncover the secrets of his life? Or will you simply do as you’re told?",
+    "storyline": "",
+    "cover": {
+      "url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hcu.jpg"
+    },
+    "artworks": [
+      {
+        "id": 1478080,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scvohs.jpg"
+      },
+      {
+        "id": 1478081,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scvoht.jpg"
+      },
+      {
+        "id": 1478077,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scvohp.jpg"
+      },
+      {
+        "id": 1478078,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scvohq.jpg"
+      },
+      {
+        "id": 1478079,
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/scvohr.jpg"
+      }
+    ],
+    "videos": [],
+    "websites": [
+      {
+        "url": "https://discord.gg/8g9BMVqgXS"
+      },
+      {
+        "url": "https://www.playerstudio1.com"
+      },
+      {
+        "url": "https://x.com/Intothevoidgame"
+      },
+      {
+        "url": "https://store.steampowered.com/app/3241270"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "developer": [],
+    "publisher": [],
+    "total_rating": 0,
+    "hypes": 1,
+    "date": "2027-12-31",
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)",
+      "slug": "pc",
+      "abbreviation": "PC"
+    },
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)",
+        "slug": "pc",
+        "abbreviation": "PC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 34,
+    "name": "Android",
+    "slug": "android",
+    "abbreviation": "AND"
+  },
+  {
+    "id": 99,
+    "name": "Family Computer",
+    "slug": "family-computer",
+    "abbreviation": "FC"
+  },
+  {
+    "id": 24,
+    "name": "Game Boy Advance",
+    "slug": "game-boy-advance",
+    "abbreviation": "GBA"
+  },
+  {
+    "id": 170,
+    "name": "Google Stadia",
+    "slug": "google-stadia",
+    "abbreviation": "GS"
+  },
+  {
+    "id": 39,
+    "name": "iOS",
+    "slug": "ios",
+    "abbreviation": "iOS"
+  },
+  {
+    "id": 3,
+    "name": "Linux",
+    "slug": "linux",
+    "abbreviation": "LIN"
+  },
+  {
+    "id": 14,
+    "name": "Mac",
+    "slug": "mac",
+    "abbreviation": "MAC"
+  },
+  {
+    "id": 386,
+    "name": "Meta Quest 2",
+    "slug": "meta-quest-2",
+    "abbreviation": "MQ2"
+  },
+  {
+    "id": 18,
+    "name": "Nintendo Entertainment System",
+    "slug": "nes",
+    "abbreviation": "NES"
+  },
+  {
+    "id": 130,
+    "name": "Nintendo Switch",
+    "slug": "switch",
+    "abbreviation": "NS"
+  },
+  {
+    "id": 508,
+    "name": "Nintendo Switch 2",
+    "slug": "switch-2",
+    "abbreviation": "NS2"
+  },
+  {
+    "id": 384,
+    "name": "Oculus Quest",
+    "slug": "oculus-quest",
+    "abbreviation": "OQ"
+  },
+  {
+    "id": 6,
+    "name": "PC (Microsoft Windows)",
+    "slug": "pc",
+    "abbreviation": "PC"
+  },
+  {
+    "id": 48,
+    "name": "PlayStation 4",
+    "slug": "ps4",
+    "abbreviation": "PS4"
+  },
+  {
+    "id": 167,
+    "name": "PlayStation 5",
+    "slug": "ps5",
+    "abbreviation": "PS5"
+  },
+  {
+    "id": 390,
+    "name": "PlayStation VR2",
+    "slug": "playstation-vr2",
+    "abbreviation": "PV"
+  },
+  {
+    "id": 163,
+    "name": "SteamVR",
+    "slug": "steamvr",
+    "abbreviation": "VR"
+  },
+  {
+    "id": 82,
+    "name": "Web browser",
+    "slug": "web-browser",
+    "abbreviation": "WB"
+  },
+  {
+    "id": 161,
+    "name": "Windows Mixed Reality",
+    "slug": "windows-mixed-reality",
+    "abbreviation": "WMR"
+  },
+  {
+    "id": 49,
+    "name": "Xbox One",
+    "slug": "xbox-one",
+    "abbreviation": "XO"
+  },
+  {
+    "id": 169,
+    "name": "Xbox Series X|S",
+    "slug": "xbox-series",
+    "abbreviation": "XSX"
+  }
+]

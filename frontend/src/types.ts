@@ -41,9 +41,12 @@ export type Game = {
   hypes: number;
   date: string;
   platform: Platform | null;
+  platforms?: Platform[];
 };
 
 export type AppConfig = {
-  mode: "live" | "public" | "mock";
+  mode: "live" | "public" | "mock" | "static";
   defaultPlatforms: number[];
+  years?: number[];
+  generatedAt?: string;
 };

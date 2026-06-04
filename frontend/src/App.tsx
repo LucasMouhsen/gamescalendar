@@ -20,6 +20,7 @@ const FALLBACK_CONFIG: AppConfig = {
 };
 
 function App() {
+  const logoUrl = `${import.meta.env.BASE_URL}logo_withoutbg_400x400.png`;
   const [config, setConfig] = useState<AppConfig>(FALLBACK_CONFIG);
   const [platforms, setPlatforms] = useState<Platform[]>([]);
   const [selectedPlatforms, setSelectedPlatforms] = useState<number[]>(FALLBACK_CONFIG.defaultPlatforms);
@@ -49,7 +50,7 @@ function App() {
         const platformList = await fetchPlatforms([]);
         setPlatforms(platformList);
       } catch (bootstrapError) {
-        setError("Could not load app config. Check the backend.");
+        setError("Could not load app data.");
         console.error(bootstrapError);
       }
     }
@@ -137,7 +138,7 @@ function App() {
           <div className="header-copy">
             <div className="brand-row">
               <img
-                src="/logo_withoutbg_400x400.png"
+                src={logoUrl}
                 alt="Logo"
                 className="brand-logo-image"
               />
