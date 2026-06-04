@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f3b2e"/>
+      <stop offset="55%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <rect x="80" y="120" width="440" height="620" rx="24" fill="none" stroke="#bbf7d0" stroke-width="14" opacity="0.35"/>
+  <circle cx="300" cy="370" r="120" fill="#ecfccb" opacity="0.18"/>
+  <path d="M300 250 L370 300 L345 385 L255 385 L230 300 Z" fill="#fef08a" opacity="0.82"/>
+  <text x="76" y="790" fill="#f0fdf4" font-size="58" font-family="Arial, sans-serif" font-weight="700">PINE HARBOR</text>
+  <text x="76" y="855" fill="#dcfce7" font-size="72" font-family="Arial, sans-serif" font-weight="700">FC</text>
+</svg>

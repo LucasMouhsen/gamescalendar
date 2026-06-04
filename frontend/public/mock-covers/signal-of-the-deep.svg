@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="45%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <circle cx="300" cy="250" r="140" fill="#67e8f9" opacity="0.14"/>
+  <path d="M150 520 Q300 360 450 520" fill="none" stroke="#99f6e4" stroke-width="16" opacity="0.4"/>
+  <path d="M190 590 Q300 470 410 590" fill="none" stroke="#ccfbf1" stroke-width="10" opacity="0.4"/>
+  <text x="64" y="760" fill="#ecfeff" font-size="58" font-family="Arial, sans-serif" font-weight="700">SIGNAL OF</text>
+  <text x="64" y="830" fill="#a5f3fc" font-size="58" font-family="Arial, sans-serif" font-weight="700">THE DEEP</text>
+</svg>

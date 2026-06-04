@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3f2b1d"/>
+      <stop offset="50%" stop-color="#8a5a2b"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <path d="M0 620 L140 500 L260 610 L380 470 L600 640 L600 900 L0 900 Z" fill="#111827" opacity="0.65"/>
+  <circle cx="440" cy="170" r="74" fill="#fb923c" opacity="0.85"/>
+  <rect x="150" y="250" width="300" height="220" rx="22" fill="none" stroke="#fed7aa" stroke-width="14" opacity="0.4"/>
+  <text x="54" y="760" fill="#fff7ed" font-size="58" font-family="Arial, sans-serif" font-weight="700">WASTELAND</text>
+  <text x="54" y="830" fill="#fde68a" font-size="58" font-family="Arial, sans-serif" font-weight="700">KEEPER</text>
+</svg>

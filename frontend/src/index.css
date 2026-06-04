@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+:root {
+  --bg: #f5f7fb;
+  --fg: #18181b;
+  --muted: #52525b;
+  --card: #ffffff;
+  --popover: #ffffff;
+  --border: #e4e4e7;
+  --muted-surface: #f4f4f5;
+  --primary: #2563eb;
+  --warning: #f59e0b;
+  --error: #ef4444;
+  --success: #22c55e;
+  --info: #06b6d4;
+  --purple: #a855f7;
+  --badge-fg: #fafafa;
+  --secondary-1: #3f3f46;
+  --secondary-2: #27272a;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--fg);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root[data-theme="dark"] {
+  --bg: #18181b;
+  --fg: #e4e4e7;
+  --muted: #a1a1aa;
+  --card: #27272a;
+  --popover: #27272a;
+  --border: #3f3f46;
+  --muted-surface: #3f3f46;
+  --primary: #60a5fa;
+  --warning: #fbbf24;
+  --error: #f87171;
+  --success: #4ade80;
+  --info: #22d3ee;
+  --purple: #c084fc;
+  --badge-fg: #18181b;
+  --secondary-1: #3f3f46;
+  --secondary-2: #18181b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  min-width: 320px;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+}
