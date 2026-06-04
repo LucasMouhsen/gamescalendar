@@ -1,21 +1,29 @@
 import type { Game } from "./types";
 
-export const monthTitle = new Intl.DateTimeFormat("en-US", {
-  month: "long",
-  year: "numeric",
-});
-
-export const dayTitle = new Intl.DateTimeFormat("en-US", {
-  weekday: "short",
-  day: "numeric",
-});
-
-export function formatMonth(date: Date) {
-  return monthTitle.format(date);
+function resolveLocale(locale: string) {
+  return locale === "es" ? "es-ES" : "en-US";
 }
 
-export function formatDayLabel(dateString: string) {
-  return dayTitle.format(new Date(`${dateString}T12:00:00`));
+export function formatMonth(date: Date, locale = "en") {
+  return new Intl.DateTimeFormat(resolveLocale(locale), {
+    month: "long",
+    year: "numeric",
+  }).format(date);
+}
+
+export function formatDayLabel(dateString: string, locale = "en") {
+  return new Intl.DateTimeFormat(resolveLocale(locale), {
+    weekday: "short",
+    day: "numeric",
+  }).format(new Date(`${dateString}T12:00:00`));
+}
+
+export function formatGameDate(dateString: string, locale = "en") {
+  return new Intl.DateTimeFormat(resolveLocale(locale), {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  }).format(new Date(`${dateString}T12:00:00`));
 }
 
 export function toIsoDate(value: Date) {

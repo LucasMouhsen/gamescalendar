@@ -75,6 +75,33 @@
   min-width: 0;
 }
 
+.locale-switcher {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 10px;
+  background: var(--muted-surface);
+}
+
+.locale-button {
+  border: 1px solid transparent;
+  min-width: 44px;
+  color: var(--muted);
+  background: transparent;
+  padding: 9px 10px;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.locale-button--active {
+  color: var(--fg);
+  border-color: var(--border);
+  background: color-mix(in srgb, var(--card) 82%, transparent);
+}
+
 .tab-button,
 .month-arrow,
 .theme-toggle,
@@ -782,6 +809,10 @@
 
   .view-tabs {
     width: 100%;
+  }
+
+  .locale-switcher {
+    align-self: flex-start;
   }
 
   .tab-button {
