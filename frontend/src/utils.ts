@@ -11,6 +11,12 @@ export function formatMonth(date: Date, locale = "en") {
   }).format(date);
 }
 
+export function formatMonthName(monthIndex: number, locale = "en") {
+  return new Intl.DateTimeFormat(resolveLocale(locale), {
+    month: "long",
+  }).format(new Date(2026, monthIndex, 1, 12, 0, 0));
+}
+
 export function formatDayLabel(dateString: string, locale = "en") {
   return new Intl.DateTimeFormat(resolveLocale(locale), {
     weekday: "short",
@@ -40,12 +46,13 @@ export function monthRange(currentMonth: Date) {
   };
 }
 
-export function futureRange(monthsAhead = 4) {
+export function futureRangeToYear(lastYear: number) {
   const now = new Date();
-  const end = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + monthsAhead, 0));
+  const start = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1));
+  const end = new Date(Date.UTC(lastYear, 11, 31));
 
   return {
-    startDate: toIsoDate(now),
+    startDate: toIsoDate(start),
     endDate: toIsoDate(end),
   };
 }
@@ -54,6 +61,12 @@ export function groupGamesByDate(games: Game[]) {
   return games.reduce<Record<string, Game[]>>((groups, game) => {
     const bucket = groups[game.date] || [];
     bucket.push(game);
+    bucket.sort((left, right) => {
+      if (left.hypes === right.hypes) {
+        return left.name.localeCompare(right.name);
+      }
+      return right.hypes - left.hypes;
+    });
     groups[game.date] = bucket;
     return groups;
   }, {});
@@ -75,4 +88,24 @@ export function buildCalendarDays(currentMonth: Date) {
 
 export function headlinePlatform(game: Game) {
   return game.platform?.abbreviation || game.platform?.slug?.toUpperCase() || "TBA";
+}
+
+export function localizedGameName(game: Game, locale: string) {
+  return locale === "es" ? game.translations?.es?.name || game.name : game.name;
+}
+
+export function localizedGameSummary(game: Game, locale: string) {
+  return locale === "es" ? game.translations?.es?.summary || game.summary : game.summary;
+}
+
+export function localizedGameStoryline(game: Game, locale: string) {
+  return locale === "es" ? game.translations?.es?.storyline || game.storyline : game.storyline;
+}
+
+export function localizedGameGenres(game: Game, locale: string) {
+  return locale === "es" ? game.translations?.es?.genres || game.genres : game.genres;
+}
+
+export function localizedGameModes(game: Game, locale: string) {
+  return locale === "es" ? game.translations?.es?.game_modes || game.game_modes : game.game_modes;
 }

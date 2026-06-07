@@ -89,7 +89,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Amira",
+        "summary": "Amira: Una aventura dirigida por la historia sobre una chica nacida en un mundo de fantasía de Oriente Medio que descubre que su vida está escrita y predeterminada mientras ayuda a su familia. Ella lucha por la aceptación, el amor y por escribir su propia vida.",
+        "storyline": "En un vasto mundo de fantasía, la vida de la joven Amira está destinada a seguir un camino trazado. Su mundo se tambalea cuando descubre secretos sobre su propia existencia. Obligada a confrontar la verdad, debe decidir si aceptará el destino o si luchará incansablemente por moldear su propia narrativa.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 396614,
@@ -167,7 +194,38 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Galactic Civilizations IV: Cuentos de los Snathi",
+        "summary": "Los Snathi han logrado escapar. Reúne los restos de tus enemigos y reclama tu derecho de nacimiento como los verdaderos herederos de los Dread Lords.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 397987,
@@ -268,7 +326,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Edad en decadencia",
+        "summary": "Withering Age es un roguelike de estrategia en tiempo real ambientado en un mundo medieval de fantasía oscura, lleno de magia, peligro y decadencia. Construye y expande tu reino, entrena tropas leales y campeones poderosos, y defiende tus tierras contra hordas implacables.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 211175,
@@ -330,7 +415,38 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Rey de los Conquistadores",
+        "summary": "¡Tu viaje de aventurero a rey comienza aquí!",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 393100,
@@ -393,7 +509,34 @@
         "slug": "switch-2",
         "abbreviation": "NS2"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Valle Neoran Maravilloso",
+        "summary": "Wonderful Neoran Valley es una experiencia Roguelite de colección de monstruos. Deberás convencer a las criaturas que encuentres para que te sigan y luchen a tu lado, mientras descubres el oscuro secreto que afecta al Valle Neoran. ¡Sí, lo leíste bien: Roguelite!",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 16,
+            "name": "Estrategia por turnos (TBS)"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 357519,
@@ -502,7 +645,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Ciudad Atada",
+        "summary": "Una aventura intensa y agridulce en una ciudad de noche sin fin. Explora la ciudad moribunda y busca la torre en el centro de todo. Nada es lo que parece, y solo enfrentando la muerte puedes entender los misterios de Bound City.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 163856,
@@ -589,6 +759,29 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Todos los Hombres del Rey",
+        "summary": "RPG por turnos 2D de estilo clásico con más de 60 horas de misiones y exploración en mundo abierto.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   }
 ]

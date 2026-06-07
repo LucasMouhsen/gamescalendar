@@ -64,7 +64,17 @@ function collectCompanies(entries = [], predicate) {
     .map((company) => ({ id: company.id, name: company.name }));
 }
 
-function normalizeGame(game) {
+function buildLocalizedFields(game) {
+  return {
+    name: game.name || "",
+    summary: game.summary || "",
+    storyline: game.storyline || "",
+    genres: (game.genres || []).map((genre) => ({ id: genre.id, name: genre.name })),
+    game_modes: (game.game_modes || []).map((mode) => ({ id: mode.id, name: mode.name })),
+  };
+}
+
+function normalizeGame(game, spanishGame) {
   const normalizedPlatforms = (game.platforms || []).map(normalizePlatform);
 
   return {
@@ -93,6 +103,11 @@ function normalizeGame(game) {
     date: game.released,
     platform: normalizedPlatforms[0] || null,
     platforms: normalizedPlatforms,
+    translations: spanishGame
+      ? {
+          es: buildLocalizedFields(spanishGame),
+        }
+      : undefined,
   };
 }
 
@@ -156,15 +171,22 @@ function collectPlatformsFromGames(games) {
 }
 
 async function fetchYearGames(year) {
-  const byYearUrl = `https://gamerelease.app/api/games/by-year?year=${year}&limit=500&locale=en`;
-  const futureUrl = `https://gamerelease.app/api/games/future-by-year?year=${year}&limit=500&locale=en`;
+  const buildUrl = (kind, locale) =>
+    `https://gamerelease.app/api/games/${kind}?year=${year}&limit=500&locale=${locale}`;
 
-  const [released, future] = await Promise.all([
-    fetchJson(byYearUrl).catch(() => ({ results: [] })),
-    fetchJson(futureUrl).catch(() => ({ results: [] })),
+  const [releasedEn, futureEn, releasedEs, futureEs] = await Promise.all([
+    fetchJson(buildUrl("by-year", "en")).catch(() => ({ results: [] })),
+    fetchJson(buildUrl("future-by-year", "en")).catch(() => ({ results: [] })),
+    fetchJson(buildUrl("by-year", "es")).catch(() => ({ results: [] })),
+    fetchJson(buildUrl("future-by-year", "es")).catch(() => ({ results: [] })),
   ]);
 
-  const normalized = [...(released.results || []), ...(future.results || [])].map(normalizeGame);
+  const spanishById = new Map(
+    [...(releasedEs.results || []), ...(futureEs.results || [])].map((game) => [game.id, game]),
+  );
+  const normalized = [...(releasedEn.results || []), ...(futureEn.results || [])].map((game) =>
+    normalizeGame(game, spanishById.get(game.id)),
+  );
   return dedupeGames(normalized);
 }
 
@@ -174,15 +196,26 @@ async function main() {
   const endYear = Number(process.env.STATIC_END_YEAR || currentYear + 2);
   const years = Array.from({ length: endYear - startYear + 1 }, (_, index) => startYear + index);
 
+  if (years.length < 1) {
+    throw new Error("Snapshot generation requires at least one year.");
+  }
+
   await mkdir(outputDir, { recursive: true });
 
   const yearGamesEntries = await Promise.all(
     years.map(async (year) => [year, await fetchYearGames(year)]),
   );
 
-  const gamesByYear = Object.fromEntries(yearGamesEntries);
   const allGames = yearGamesEntries.flatMap(([, games]) => games);
   const platforms = collectPlatformsFromGames(allGames);
+
+  if (!allGames.length) {
+    throw new Error("Snapshot generation returned no games.");
+  }
+
+  if (!platforms.length) {
+    throw new Error("Snapshot generation returned no platforms.");
+  }
 
   await writeFile(
     path.join(outputDir, "config.json"),

@@ -10,6 +10,14 @@ export type SimpleEntity = {
   name: string;
 };
 
+export type LocalizedGameFields = {
+  name?: string;
+  summary?: string;
+  storyline?: string;
+  genres?: SimpleEntity[];
+  game_modes?: SimpleEntity[];
+};
+
 export type VideoItem = {
   id: number;
   video_id: string;
@@ -42,10 +50,13 @@ export type Game = {
   date: string;
   platform: Platform | null;
   platforms?: Platform[];
+  translations?: {
+    es?: LocalizedGameFields;
+  };
 };
 
 export type AppConfig = {
-  mode: "live" | "public" | "mock" | "static";
+  mode: "static";
   defaultPlatforms: number[];
   years?: number[];
   generatedAt?: string;

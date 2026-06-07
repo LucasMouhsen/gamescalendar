@@ -158,7 +158,34 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Kingdom Come: Deliverance II",
+        "summary": "Una emocionante RPG de acción y narración, ambientada en el rico mundo abierto de la Europa medieval del siglo XV. Experimenta la aventura medieval definitiva a través de los ojos de un joven Henry, mientras te embarcas en un viaje de proporciones épicas.",
+        "storyline": "Eres Henry of Skalitz, un hombre común que hace cosas extraordinarias. Te encuentras en una historia apasionante de venganza, traición y descubrimiento. En esta búsqueda de propósito en un mundo medieval hermoso pero brutal, emprenderás un viaje 'desde la herrería humilde hasta la corte de los Reyes'.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 305006,
@@ -350,7 +377,42 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Sid Meier's Civilization VII",
+        "summary": "Dirígete como uno de muchos líderes legendarios de la historia. Establece tu civilización, construye ciudades y maravillas arquitectónicas para expandir tu territorio. Conquista o coopera con civilizaciones rivales en busca de prosperidad y explora los límites del mundo desconocido. ¿Construirás un imperio que resistirá el paso del tiempo?",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 16,
+            "name": "Estrategia por turnos (TBS)"
+          },
+          {
+            "id": 24,
+            "name": "Táctico"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 135994,
@@ -509,7 +571,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Avowed",
+        "summary": "Bienvenido a Living Lands, una misteriosa isla llena de aventura y peligro.\n\nAvowed se desarrolla en el mundo ficticio de Eora, presentado inicialmente en la saga Pillars of Eternity. Es un RPG de acción fantástico en primera persona desarrollado por el reconocido equipo de Obsidian Entertainment.\n\nLiving Lands es un lugar ajeno, pero que te resulta intrínsecamente propio, como si la propia isla estuviera llamando pidiendo ayuda. Explora una isla con diversos entornos y paisajes, cada uno con un ecosistema único.\n\nCombina espadas, hechizos, armas de fuego y escudos para luchar. Utiliza tu grimorio para atrapar, congelar o quemar enemigos, golpearlos con tu escudo, o usar arcos de largo alcance para atacar a distancia.\n\nCompañeros de diversas especies lucharán a tu lado, cada uno con su propio conjunto de habilidades. Desde un ex mercenario hasta un mago excéntrico, serán parte de tu viaje y tus elecciones los moldearán mientras los ayudas con sus misiones.",
+        "storyline": "Eres el enviado de Aedyr, una tierra distante, enviado para investigar rumores de una plaga que se extiende por Living Lands: una isla llena de misterios, secretos, peligro y aventura, y elecciones y consecuencias. Descubres una conexión personal con Living Lands y un antiguo secreto que amenaza con destruirlo todo. ¿Podrás salvar esta frontera desconocida y tu alma de las fuerzas que amenazan con desgarrarla?",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 279661,
@@ -665,7 +750,42 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Monster Hunter Wilds",
+        "summary": "La fuerza salvaje e imparable de la naturaleza. Los entornos cambian drásticamente con el tiempo. Es la historia de la lucha por la armonía entre monstruos y humanos.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat 'em up"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 305155,
@@ -811,7 +931,38 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "FragPunk",
+        "summary": "FragPunk es el nuevo shooter heroico 5v5 gratuito, listo para redefinir las reglas del combate. Lo que hace único a FragPunk es la introducción de Shard Cards, que pueden afectar el campo de juego para todos los jugadores. Estas Shard Cards son votadas por los jugadores antes de cada ronda y pueden cambiar completamente el entorno de combate, desde hacer grandes las cabezas de los jugadores hasta convertir a tu equipo en zombis si caes. FragPunk tiene una barrera de entrada baja, pero alta mecánica de gunplay, lo que lo convierte en una excelente opción tanto para jugadores casuales como para fans hardcore de los FPS.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 36,
+            "name": "MOBA"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 5,
+            "name": "Massively Multiplayer Online (MMO)"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 325594,
@@ -982,7 +1133,42 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Split Fiction",
+        "summary": "Split Fiction es un juego multijugador cooperativo de 2025. Sigue a dos escritoras, Mio Hudson y Zoe Foster, mientras quedan atrapadas en sus propias imaginaciones.",
+        "storyline": "Mio y Zoe son escritoras contrastantes: una escribe ciencia ficción y la otra, fantasía. Ambas quedan atrapadas en sus propias historias tras ser conectadas a una máquina diseñada para robar sus ideas creativas. Deberán apoyarse mutuamente para escapar, manteniendo intactos sus recuerdos. Trabajando juntas, deberán dominar diversas habilidades y superar desafíos variados, saltando entre mundos de ciencia ficción y fantasía en este inesperado cuento de amistad.",
+        "genres": [
+          {
+            "id": 8,
+            "name": "Plataforma"
+          },
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 4,
+            "name": "Split screen"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 300976,
@@ -1141,7 +1327,30 @@
         "slug": "mac",
         "abbreviation": "MAC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Assassin's Creed Shadows",
+        "summary": "¡Vive una épica historia de acción y aventura histórica ambientada en el Japón feudal! Conviértete en un letal shinobi Assassin y un poderoso samurai legendario mientras exploras un hermoso mundo abierto en tiempos de caos. Alterna sin problemas entre dos aliados improbables al descubrir su destino común. Domina estilos de juego complementarios, crea tu liga shinobi, personaliza tu escondite e inicia una nueva era para Japón.",
+        "storyline": "Vive las historias entrelazadas de Naoe, un hábil shinobi Assassin de la Provincia de Iga, y Yasuke, el poderoso samurai africano de leyenda histórica. En el contexto del turbulento período Sengoku tardío, este notable dúo descubrirá su destino común mientras inaugura una nueva era para Japón.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 305159,
@@ -1304,7 +1513,34 @@
         "slug": "xbox-one",
         "abbreviation": "XO"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Caída Atómica",
+        "summary": "Un desastre nuclear ha dejado una zona de Gran Bretaña en ruinas. En Atomfall, un nuevo juego de acción y supervivencia, explorarás, recolectarás, crearás, intercambiarás y lucharás a través de escenarios bellamente recreados en busca de respuestas.",
+        "storyline": "El juego sigue una trama de ficción donde te encuentras en la zona de cuarentena cinco años después del evento. Todo ha cambiado en ese tiempo, y te encuentras en una Gran Bretaña muy diferente, al otro lado de la pared de cuarentena. El área está controlada por el ejército y está plagada de facciones, luchas internas y una creciente sensación de miedo. Te toca desentrañar el misterio de lo sucedido. Explora la campiña, los pueblos y los asentamientos y conoce gente extraña, cultos malvados, agencias gubernamentales renegadas y otros en el camino.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 279643,
@@ -1451,7 +1687,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "El Primer Berserker: Khazan",
+        "summary": "The First Berserker: Khazan es un videojuego de rol de acción hardcore. El jugador asume el papel de Khazan, el gran general del imperio Pelos, quien superó la muerte. Debe revelar los incidentes que causaron su caída y buscar venganza contra sus enemigos.",
+        "storyline": "Khazan y Ozma son los héroes que salvaron el Imperio Pelos de la Dragón Berserk Hismar y la Legión Dragón. Sin embargo, el General Khazan, acusado falsamente de traición, se convierte en un desterrado miserable, condenado al exilio más allá del imperio mediante torturas brutales.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat 'em up"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 279051,
@@ -1598,7 +1857,34 @@
         "slug": "mac",
         "abbreviation": "MAC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Inzoi",
+        "summary": "Inzoi es un juego de simulación de vida donde los jugadores se convierten en dioses. Tienen el poder de cambiarlo todo a su voluntad y experimentar historias infinitas en diversas formas de vida.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 252826,
@@ -1748,7 +2034,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "South of Midnight",
+        "summary": "South of Midnight es una nueva aventura de acción y exploración de Compulsion Games. Explora el mitos y confronta criaturas misteriosas del Deep South en este cuento moderno, mientras aprendes a tejer un antiguo poder para superar obstáculos y enfrentar el dolor que acecha tu ciudad natal.",
+        "storyline": "UN CUENTO MODERNO DE HADES.\n\nCuando un huracán arrasa Prospero, Hazel es arrastrada a un mundo de Southern Gothic donde la realidad y la fantasía están entrelazadas, y criaturas antiguas del folclore emergen. En esta aventura de iniciación, Hazel viaja para rescatar a su madre y profundiza en una web inquietante de folclore y secretos familiares, desentrañando su propia identidad.",
+        "genres": [
+          {
+            "id": 8,
+            "name": "Plataforma"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 305152,
@@ -1917,7 +2226,34 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Clair Obscur: Expedition 33",
+        "summary": "Lidere a los miembros de Expedition 33 en su búsqueda para destruir a la Paintress y que nunca más pinte la muerte. Explore un mundo de maravillas inspirado en la Belle Époque francesa y luche contra enemigos únicos en este RPG por turnos con mecánicas en tiempo real.",
+        "storyline": "“Año tras año, nos borra.” Cada año, la Paintress despierta y pinta sobre su monolito. Pinta su número maldito. Y todas las personas de esa edad se convierten en humo y se desvanecen. Año tras año, ese número disminuye y más de nosotros son borrados. Mañana se despertará y pintará “33”. Y mañana partimos en nuestra misión final: Destruir a la Paintress, para que nunca más pueda pintar la muerte. Nosotros somos Expedition 33.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 302704,
@@ -2064,7 +2400,26 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Doom: Los Siglos Oscuros",
+        "summary": "DOOM: The Dark Ages es la precuela de DOOM (2016) y DOOM Eternal, y narra la épica historia de origen del DOOM Slayer. Te sumergirás en una oscura y siniestra guerra medieval contra el Infierno, vistas jamás antes.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 325591,
@@ -2220,7 +2575,34 @@
         "slug": "xbox-one",
         "abbreviation": "XO"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Elden Ring Nightreign",
+        "summary": "Elden Ring: Nightreign es una aventura independiente dentro del universo ELDEN RING, diseñada para ofrecer a los jugadores una nueva experiencia de juego mediante la reinvención del diseño central del juego.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat 'em up"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 171233,
@@ -2402,7 +2784,46 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Deltarune",
+        "summary": "¡Sumérgete en la historia paralela de UNDERTALE! Pelea o escapa en batallas llenas de acción mientras exploras un misterioso mundo junto a un adorable elenco de personajes nuevos y conocidos.",
+        "storyline": "Kris y su compañera de clase Susie caen en un lugar desconocido llamado el \"Dark World\". Allí conocen a Ralsei, quien les revela que, según la leyenda de Delta Rune, están predestinados a ser héroes que salvarán el mundo. La historia completa de Deltarune consistirá en siete capítulos. En cada uno, Kris, Susie y Ralsei se enfrentarán o actuarán en los Dark Worlds. Kris es el líder del grupo, ya que es el único capaz de sellar la \"Dark Fountain\". Puede dar órdenes a los demás miembros del grupo en combate, aunque algunas órdenes puedan parecer forzadas. El SOUL, un objeto con forma de corazón, es controlado por el jugador y reside en el cuerpo de Kris, dejando sus acciones principalmente a su disposición.",
+        "genres": [
+          {
+            "id": 7,
+            "name": "Música"
+          },
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 16,
+            "name": "Estrategia por turnos (TBS)"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 214394,
@@ -2576,7 +2997,42 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Dune: Despertar",
+        "summary": "Dune: Awakening es un RPG de Supervivencia de Mundo Abierto donde te sumergirás totalmente en el épico mundo de Dune. Solo o con amigos, explora la vasta Arrakis, sobrevive a los gusanos de arena, construye un hogar, fabrica un ornitóptero y desentraña el misterio del Fremen desaparecido.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 5,
+            "name": "Massively Multiplayer Online (MMO)"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 320873,
@@ -2732,7 +3188,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "MindsEye",
+        "summary": "MindsEye es una experiencia de juego en constante expansión. Cuenta con una campaña narrativa, un flujo interminable de contenido jugable actualizado regularmente, y la capacidad de crear tus propios juegos con su herramienta de construcción fácil de usar.",
+        "storyline": "La campaña de MindsEye es un thriller de acción-aventura de un jugador ambientado en la ciudad desértica futurista Redrock. Interpretarás a Jacob Diaz, un exsoldado atormentado por un misterioso implante y recuerdos fragmentados. A lo largo de la campaña cinematográfica, completarás misiones, descubrirás tu pasado y confrontarás una conspiración que involucra IA rebelde, corporaciones corruptas y poder militar sin control, una amenaza que va mucho más allá de la ciudad.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 204634,
@@ -2894,7 +3373,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Los Alters",
+        "summary": "Explora un juego sci-fi emocional con una mezcla única de supervivencia, aventura y construcción de bases. Ayuda a Jan Dolski, el único superviviente de una fallida expedición espacial, a crear versiones alternativas de sí mismo para escapar de un planeta hostil y afrontar turbulencias personales con esta tripulación poco convencional.",
+        "storyline": "Esta es la historia de Jan Dolski, un simple trabajador ante circunstancias que lo llevan a una encrucijada que cambiará su vida. Tras un aterrizaje forzoso en un planeta distante, varado y solo, Jan se encuentra en una situación de vida o muerte. Su única esperanza de supervivencia es traer ayuda. Sin comprender aún el peso de su elección, Jan debe crear versiones alternativas de sí mismo para seguir adelante: los 'alters'.",
+        "genres": [
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 228530,
@@ -3045,7 +3547,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Death Stranding 2: En la Playa",
+        "summary": "Embárquense en una inspiradora misión de conexión humana más allá de la UCA. Sam, con sus compañeros, emprende un nuevo viaje para salvar a la humanidad de la extinción. Únanse a ellos mientras atraviesan un mundo asolado por enemigos, obstáculos y una pregunta inquietante: ¿deberíamos habernos conectado?",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 279526,
@@ -3188,7 +3713,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Mecha Break",
+        "summary": "Mecha Break es un juego multijugador de mechas que permite a los jugadores elegir entre diversos mechas, personalizar sus apariencias y luchar contra colosales máquinas de guerra en terrenos traicioneros. ¡Prepárate para el enfrentamiento definitivo: ataque, lucha, llamas!",
+        "storyline": "Descubre una variedad de mechas de asalto, cuerpo a cuerpo, francotiradores, reconocimiento y soporte, cada uno con estilos de juego únicos. Participa en combates inmersivos tanto aéreos como terrestres, empleando tácticas estratégicas para encuentros de corto y largo alcance. Desata un poder de fuego devastador, quema a tus enemigos con haces de precisión y lluvia misiles en el campo de batalla.\n\nPrepárate para batallas que aceleran el ritmo cardíaco, maniobras ultrarrápidas y potencia explosiva. Experimenta la esencia de la velocidad, la potencia y los controles emocionantes.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 6,
+            "name": "Battle Royale"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 305107,
@@ -3344,7 +3896,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Eriksholm: El Sueño Robado",
+        "summary": "Vive un juego de sigilo isométrico y narrativo ambientado en la impresionante ciudad de Eriksholm. Cuando Hanna, la hermana de Herman, desaparece y la policía comienza la búsqueda, su investigación desata una cadena de eventos catastróficos. Estos eventos no solo cambiarán sus vidas, sino también el destino de toda la ciudad. Únete a tus aliados, supera a enemigos implacables y usa tu ingenio para desvelar la verdad detrás de la desaparición de Herman. Hay fuerzas más grandes en juego de lo que jamás imaginaste.",
+        "storyline": "Únete a la aventura de Hanna en Eriksholm en su misión de encontrar a su hermano y desvelar el misterio de su desaparición. Adéntrate en impresionantes paisajes en una historia intensa donde cada segundo cuenta mientras Hanna lucha por reunificar a su familia.",
+        "genres": [
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 338106,
@@ -3468,7 +4043,34 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Donkey Kong Bananza",
+        "summary": "¡Donkey Kong Bananza solo en Nintendo Switch 2! ¡Explora un vasto mundo subterráneo, rompiendo camino! En este nuevo juego de acción-aventura y plataformas en 3D de DK, ¡pégate, lanza y trepa casi cualquier cosa!",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 8,
+            "name": "Plataforma"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 255078,
@@ -3592,7 +4194,42 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Supervive",
+        "summary": "Participa en combates de equipo intensos y a gran escala en este brutal e rápido enfrentamiento en el cielo. Desbloquea equipo, crea construcciones avanzadas y lleva tu equipamiento más potente a cada partida.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 36,
+            "name": "MOBA"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 6,
+            "name": "Battle Royale"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 171225,
@@ -3753,7 +4390,34 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Wuchang: Plumas Caídas",
+        "summary": "Wuchang: Fallen Feathers es un action RPG soulslike ambientado en la tierra de Shu, durante la oscura y tumultuosa tardía Dinastía Ming. La región está plagada de facciones en guerra y una misteriosa enfermedad que genera criaturas monstruosas.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat 'em up"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 314276,
@@ -3906,7 +4570,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Mafia: El País Antiguo",
+        "summary": "Mafia: The Old Country es un juego de acción-aventura de la saga Mafia. Sirve como precuela del primer juego de Mafia. Los jugadores se adentrarán en el submundo criminal de Sicilia durante la década de 1900.",
+        "storyline": "Descubre los orígenes del crimen organizado en Mafia: The Old Country, una cruda historia de la mafia ambientada en el brutal submundo de Sicilia en los años 1900. Sobrevive como Enzo Favara y demuestra tu valía para la Cosa Nostra en esta inmersiva aventura de acción en tercera persona. Enzo hará cualquier cosa por una vida mejor. Tras una brutal infancia de trabajo forzado, está listo para arriesgarlo todo y convertirse en un hombre de honor de la familia criminal Torrisi.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 144274,
@@ -4035,7 +4722,34 @@
         "slug": "mac",
         "abbreviation": "MAC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "El Bazar",
+        "summary": "The Bazaar es el primer Hero Builder, desarrollado por Tempo. Ambientado en un vibrante y cambiante mercado galáctico, los jugadores asumen el papel de una lista de héroes únicos. Deben comerciar y mejorar objetos y habilidades de otro mundo para crear combinaciones que les permitan superar y derrotar a sus oponentes.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 35,
+            "name": "Juegos de cartas y de mesa"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 250634,
@@ -4183,7 +4897,34 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Metal Gear Solid Delta: Devorador de Serpientes",
+        "summary": "La misma historia apasionante y mundo cautivador, pero ahora con gráficos de vanguardia y audio 3D que dan vida a la selva. Prepárese para la experiencia definitiva de supervivencia, sigilo y acción.",
+        "storyline": "Metal Gear Solid Delta: Snake Eater es un remake de Metal Gear Solid 3: Snake Eater de 2004. Sigue la historia de Naked Snake, un operativo FOX, en 1964 durante la Guerra Fría. Su misión es rescatar a un científico ruso, sabotear un superarma llamada Shagohod y confrontar a su antiguo mentor, The Boss, que ha desertado. El juego explora temas de lealtad, traición y conflicto ideológico con el telón de fondo de un entorno selvático.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 24,
+            "name": "Táctico"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 21962,
@@ -4311,7 +5052,38 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Alma Perdida Aislada",
+        "summary": "Embárquate en una épica odisea para salvar a tu hermana y a la humanidad de invasores dimensionales en un RPG de acción-aventura estilizado para un solo jugador.\nCombina combos veloces como relámpagos, aprende nuevas habilidades y mejora tus armas mientras te enfrentas a enemigos formidables y jefes colosales en combate rápido y dinámico.",
+        "storyline": "La guerra terminó hace diez años, cuando aparecieron monstruos desconocidos.\nKazer fue combinado accidentalmente con una antigua raza, Arena.\nLuego se embarcaron en un viaje para buscar misteriosos cristales con sus propios propósitos.\n\n\"Esto no es para salvar el mundo, solo es para salvarme a mí.\"",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat 'em up"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 115289,
@@ -4501,7 +5273,34 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Hollow Knight: Silksong",
+        "summary": "Hollow Knight: Silksong es la épica secuela de Hollow Knight, la aventura de acción y fantasía de bichos y héroes. Como la letal cazadora Hornet, viaja a tierras completamente nuevas, descubre poderes, batalla hordas de bichos y bestias, y desvela secretos ancestrales ligados a tu naturaleza y tu pasado.",
+        "storyline": "Juega como Hornet, la princesa protectora de Hallownest, y aventura por un reino completamente nuevo, gobernado por la seda y la canción. Capturada y llevada a este mundo desconocido, Hornet debe enfrentarse a enemigos y resolver misterios mientras asciende en una letal peregrinación hacia la cima del reino.",
+        "genres": [
+          {
+            "id": 8,
+            "name": "Plataforma"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 196954,
@@ -4654,7 +5453,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Hell is Us",
+        "summary": "Si la guerra es lo más parecido al infierno en la Tierra, es porque el peor demonio es la humanidad. En un país aislado, devastado por conflictos internos, descubre los secretos de tu pasado y lidiando con los efectos de una misteriosa calamidad.",
+        "storyline": "Además de la guerra civil que divide al país, la región sufre una misteriosa calamidad. Esta ha dado origen a criaturas sobrenaturales que ninguna arma moderna puede derrotar. Tu dron y tu espada de otra época son tus aliados leales mientras abres camino por tierras infestadas de terroríficas quimeras y tratas de desentrañar el misterio de su aparición.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 320137,
@@ -4814,7 +5636,34 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Cronos: El Nuevo Amanecer",
+        "summary": "Cronos: The New Dawn es un juego de supervivencia horror en tercera persona con mucha acción. Te enfrenta a una lucha mortal contra enemigos abrumadores mientras descubres los misterios de una historia retorcida de viajes en el tiempo.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 314246,
@@ -5000,7 +5849,42 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Borderlands 4",
+        "summary": "¿Tiene lo necesario para dejar su huella en la historia como un legendario Vault Hunter mientras busca un secreto tesoro alienígena, destruyéndolo todo a su paso?",
+        "storyline": "Una aventura épica llena de combate y misterios intergalácticos le espera. Prepare su arsenal para la acción.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 298915,
@@ -5146,7 +6030,42 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Arena Breakout: Infinito",
+        "summary": "Arena Breakout: Infinite es una simulación militar inmersiva y ultra-real. Únete a la lucha para disparar, saquear y planear tu camino hacia la fortuna.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 24,
+            "name": "Táctico"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 5,
+            "name": "Massively Multiplayer Online (MMO)"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 314252,
@@ -5313,7 +6232,38 @@
         "slug": "xbox-one",
         "abbreviation": "XO"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Dying Light: La Tierra Restaurada de la Bestia",
+        "summary": "Dying Light: The Beast Restored Land es una versión mejorada que incluye el juego base, todas las actualizaciones previas y el contenido exclusivo Restored Land. Disfruta de Legend Levels, New Game+, Ray Tracing, Nightmare Mode, docenas de nuevos finishers brutales, cientos de mejoras de parkour y jugabilidad, y numerosos avances visuales y de audio. Vuelve a experimentar el apocalipsis de nuevas maneras.",
+        "storyline": "Eres Kyle Crane, un hombre cuya desinterés durante el brote inicial del virus salvó a muchos de un destino peor que la muerte. Después de más de una década de cautiverio, te encuentras en un mundo que ha cambiado, y no para mejor. Ahora, deberás usar las habilidades de supervivencia que te mantuvieron con vida todos estos años para salvar a más vidas inocentes.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 222343,
@@ -5463,7 +6413,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Silent Hill f",
+        "summary": "Silent Hill f es un juego de terror de supervivencia publicado por Konami como parte de la serie Silent Hill. Se desarrolla en la Japón rural de los años 60, lo que marca una desviación de los escenarios occidentales tradicionales de la saga. La historia es escrita por Ryukishi07 y se centra en el terror psicológico, la presión social y la transformación.",
+        "storyline": "En la Japón de los años 60, el tranquilo pueblo de Ebisugaoka, hogar de Shimizu Hinako, es consumido por una repentina niebla, transformando su hogar en una pesadilla de fantasmas. A medida que el pueblo cae en el silencio y la niebla se espesa, Hinako debe navegar por los caminos retorcidos de Ebisugaoka, resolviendo complejos puzles y enfrentándose a monstruos grotescos para sobrevivir.",
+        "genres": [
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 317627,
@@ -5595,7 +6568,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Ghost of Yotei",
+        "summary": "El juego se desarrolla 300 años después de Ghost of Tsushima. Está ambientado en las tierras circundantes al Mount Yōtei, un pico imponente en el corazón de Ezo, un área de Japón conocida como Hokkaido en la actualidad.",
+        "storyline": "En 1603, Atsu comienza un viaje por las tierras alrededor de Mount Yōtei, un área llena de vastas praderas, tundras nevadas y peligros inesperados.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 317407,
@@ -5745,7 +6741,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Battlefield 6",
+        "summary": "La experiencia de guerra definitiva. En un conflicto de tanques, cazas y arsenales bélicos masivos, su escuadrón es el arma más letal.",
+        "storyline": "La historia de Battlefield 6 se desarrolla en 2027. El colapso de NATO ha provocado el ascenso de Pax Armata, una poderosa corporación militar privada. Los jugadores se unen a la élite unidad U.S. Marine Raiders, Dagger 1-3. Su misión es combatir a Pax Armata para evitar un nuevo conflicto global. La campaña explora múltiples ubicaciones, desenmascarando una conspiración mientras combaten la influencia desestabilizadora de la corporación en el mundo.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 262529,
@@ -5928,7 +6947,42 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Little Nightmares III",
+        "summary": "Embárquense en una nueva aventura en el único mundo de Little Nightmares. En Little Nightmares III, siguen a Low y Alone mientras buscan un camino fuera de Nowhere. Atrapados en el Spiral, un cúmulo de lugares inquietantes, los dos amigos deben trabajar juntos para sobrevivir en un mundo lleno de ilusiones y escapar de una amenaza más grande que acecha en las sombras. Por primera vez en la franquicia, vivan experiencias de co-op online o con un compañero de IA.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 8,
+            "name": "Plataforma"
+          },
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 330379,
@@ -6061,7 +7115,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Compañerismo",
+        "summary": "FELLOWSHIP es una aventura de mazmorras multijugador online, ambientada en un emocionante entorno de fantasía, con mazmorras con escalado interminable.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 5,
+            "name": "Massively Multiplayer Online (MMO)"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 288327,
@@ -6183,7 +7264,30 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Pokémon Legends: Z-A",
+        "summary": "Una nueva aventura le espera en Lumiose City, donde un plan de reurbanización busca transformar la ciudad para que sea un lugar que pertenezca tanto a las personas como a los Pokémon. ¡Esté atento para experimentarlo!",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 116530,
@@ -6345,7 +7449,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Vampiro: La Mascarada - Bloodlines 2",
+        "summary": "Vampire: The Masquerade - Bloodlines 2 es el sucesor de la icónica RPG Vampire: The Masquerade - Bloodlines. Ambientado en un Seattle fielmente reimaginado en el World of Darkness, el juego presenta narrativa reactiva, combate cuerpo a cuerpo acelerado y personajes intrigantes con motivos ocultos. Creado en un acto de insurrección vampírica, tu existencia desata una guerra de sangre entre las facciones vampíricas que controlan Seattle. Para sobrevivir, elegirás un clan y establecerás alianzas tensas con facciones rivales en un mundo que reaccionará a cada decisión que tomes. Desata tus poderes sobrenaturales contra tu presa, pero ten cuidado con tu entorno en todo momento, o arriesgarás romper la Máscara (la ley absoluta de secreto que mantiene a la sociedad vampírica oculta de la humanidad).",
+        "storyline": "Entra en la noche como uno de varios humanos inexplicablemente atacados en un Mass Embrace, arrojado de repente a la peligrosa y despiadada política vampírica de Seattle. Las tensiones entre las facciones en Seattle están en su punto máximo, y este ataque no sancionado desata el caos en el status quo. Se convoca una investigación para llegar al fondo del misterio, y tú eres el testigo estrella... lo que sea que quieras o no.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 329130,
@@ -6505,7 +7632,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Ninja Gaiden 4",
+        "summary": "¡La franquicia definitiva de acción y aventura ninja regresa con Ninja Gaiden 4! Sumérgete en una aventura de vanguardia donde el legado se encuentra con la innovación, en una mezcla de combate estilo y sin límites de acción.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat 'em up"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 325609,
@@ -6683,7 +7833,34 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Dispatch",
+        "summary": "Dispatch es una comedia de superhéroes en el lugar de trabajo donde cada elección importa. Gestiona un equipo disfuncional de héroes marginales y diseña estrategias para enviar personal a emergencias por toda la ciudad, todo mientras equilibras las políticas de oficina, las relaciones personales y tu propia búsqueda para convertirte en un verdadero héroe.",
+        "storyline": "En un mundo lleno de superhéroes, Robert Robertson, un humano común, pilota un traje robótico gigante como Meca Man, manteniendo vivo el legado de su padre. Cuando su traje resulta irreversiblemente dañado en una batalla contra su némesis y asesino del padre, Shroud, se ve forzado a la jubilación. Poco después, el Superhero Dispatch Network (SDN) le hace una oferta: reparará su traje si acepta liderar y coordinar el Z-Team, un grupo de exsupervillanos que buscan la redención. Deben viajar por Los Angeles para salvar el día. Pero cada misión trae elecciones: esas que definen qué hace que alguien sea un héroe, con o sin superpoderes.",
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 152246,
@@ -6839,7 +8016,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "The Outer Worlds 2",
+        "summary": "Outer Worlds 2 es la secuela del RPG de ciencia ficción en primera persona galardonado de Obsidian Entertainment.",
+        "storyline": "Como agente audaz (y probablemente apuesto) de la Dirección Terrestre, debes descubrir la fuente de las devastadoras grietas que amenazan con destruir a la humanidad. Tu investigación te lleva a Arcadia, hogar de la tecnología de hiperimpulsor, donde el destino de la colonia, y finalmente de la galaxia entera, depende de tus decisiones: tus fortalezas, tus fallas, tu tripulación y las facciones en las que elijas confiar.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 185258,
@@ -6998,7 +8198,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "ARC Raiders",
+        "summary": "ARC Raiders es una aventura multijugador de extracción, ambientada en una Tierra futurista y letal, devastada por una misteriosa amenaza mecanizada llamada ARC. Únase como Raider y saquee la superficie para sobrevivir en un mundo desolado. Pero desconfíe de las máquinas. Y desconfíe de otros Raiders. ARC Raiders combina la tensión de los shooters de extracción con los escenarios atmosféricos del género de aventura. Las amenazas acechan: desde máquinas mortales hasta otros Raiders. Cada momento está cargado con la emoción de alto riesgo. Extraiga valioso botín y explore los misterios de un mundo vibrante y letal. ARC Raiders soporta juego social sin interrupciones en PlayStation, Xbox y PC. Juegue con su escuadrón y prospere como equipo, o ascienda en el rango como un cazador solitario.",
+        "storyline": "Máquinas letales llamadas ARC dominan la superficie, desde enjambres de drones implacables hasta gigantes mecánicos que lo obliteran todo a su paso. Sus orígenes siguen siendo un misterio, pero su peligro constante se siente con cada paso. Los Raiders sobreviven mediante el botín de materiales recuperados; utilizando tecnología perdida y partes de ARC para crear armas, artilugios y equipo. En Speranza, todos tienen una agenda, y los Traders no son diferentes. Le enviarán a misiones topside a cambio de recompensas, revelando poco a poco quiénes son y qué quieren para el futuro de Speranza.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 305246,
@@ -7155,7 +8378,42 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Anno 117: Pax Romana",
+        "summary": "En la última entrega de la aclamada saga de estrategia Anno, es su destino modelar el Imperio Romano en el año 117 d. C. Como gobernador, ¿fomentará el crecimiento económico o expandirá su dominio? ¿Liderará con rebelión o unirá una cultura diversa? El costo de la paz es suyo por decidir.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 11,
+            "name": "Estrategia en tiempo real (RTS)"
+          },
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 348220,
@@ -7312,7 +8570,34 @@
         "slug": "xbox-one",
         "abbreviation": "XO"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Call of Duty: Black Ops 7",
+        "summary": "Acepta la locura. En Call of Duty: Black Ops 7, Treyarch y Raven Software presentan la experiencia Black Ops más alucinante. La acción se sitúa en 2035. El mundo está al borde del caos, devastado por el conflicto violento y la guerra psicológica después de los eventos de Black Ops 2 y Black Ops 6. El equipo de Black Ops, liderado por David Mason, usa tecnología avanzada para luchar contra un enemigo manipulador que convierte el miedo en arma.",
+        "storyline": "A medida que el caos se extiende, la supervivencia se convierte en el arma más poderosa. El equipo de David Mason debe desentrañar conspiraciones y enfrentarse a enemigos que manipulan la mente. Prepárate para la acción sin cuartel.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 194659,
@@ -7378,7 +8663,26 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "¡Faul!",
+        "summary": "Faul! es un juego de cartas online. Simplemente crea un lobby para jugar con tus amigos. Puedes invitar a tus amigos compartiendo el enlace del lobby. Cada equipo puede tener un máximo de 5 personas.\nEl equipo rojo siempre comienza el juego. Para alcanzar la puntuación objetivo, el narrador intenta explicar las palabras que tiene delante a sus compañeros sin usar las palabras prohibidas. Mientras un equipo explica, un jugador del equipo contrario puede revisar las palabras prohibidas.\nEl primer equipo que alcance la puntuación objetivo gana. Dado que el equipo rojo siempre es el primer narrador, es más fácil alcanzar la puntuación objetivo para ellos. Por lo tanto, para que el equipo azul gane, solo necesita conseguir 2 puntos menos que la puntuación objetivo. Por ejemplo, si el juego termina con 20 puntos, el equipo azul solo necesita acumular 18 puntos.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 35,
+            "name": "Juegos de cartas y de mesa"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 37136,
@@ -7504,7 +8808,34 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Metroid Prime 4: Más Allá",
+        "summary": "La letal tiradora Sylux finalmente ha alcanzado a la reconocida cazadora de recompensas Samus Aran. Después de un accidente inesperado tras su enfrentamiento, Samus es transportada a Viewros, un planeta misterioso habitado por una antigua raza. Debe explorar este mundo y luchar contra sus criaturas extrañas para encontrar el camino a casa. Escanea el entorno en busca de pistas, maximiza el uso de tus equipos y armas, y usa las nuevas habilidades psíquicas de Samus y su avanzado vehículo, la Vi-O-La, para avanzar. Opera mecanismos, controla el haz de carga y más; necesitarás cada herramienta para sobrevivir y escapar de Viewros.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 8,
+            "name": "Plataforma"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 8948,
@@ -7642,6 +8973,29 @@
         "slug": "xbox-one",
         "abbreviation": "XO"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Rutina",
+        "summary": "Routine es un título de terror Sci-Fi en primera persona ambientado en una base lunar abandonada, diseñada con una visión del futuro de los años 80. La exploración curiosa se convierte en una lucha por la supervivencia cuando la base se queda en completo silencio. Buscar respuestas te confronta con un enemigo que considera que la amenaza principal eres tú. Los descubrimientos llevan a incógnitas más profundas y solo hay un camino: seguir adelante.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   }
 ]

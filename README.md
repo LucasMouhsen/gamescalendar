@@ -1,49 +1,58 @@
 # Game Calendar Rebuilt
 
-Rebuild funcional de `gamecalendar.app` con:
+Calendario de lanzamientos de videojuegos con frontend React + Vite y arquitectura 100% estatica.
 
-- frontend React + Vite
-- backend Express
-- modo `mock` listo para usar
-- modo `live` usando IGDB via Twitch credentials
+## Como funciona
 
-## Levantar local
+- Los datos se descargan desde la API publica de `gamerelease.app`.
+- El repo genera snapshots JSON en `frontend/public/data`.
+- El frontend consume siempre esos archivos estaticos.
+- No hay backend runtime ni credenciales privadas para produccion.
+
+Archivos generados:
+
+- `frontend/public/data/config.json`
+- `frontend/public/data/platforms.json`
+- `frontend/public/data/games-YYYY.json`
+
+El rango soportado por defecto es desde `anio actual - 1` hasta `anio actual + 2`.
+Se puede ajustar con `STATIC_START_YEAR` y `STATIC_END_YEAR`.
+
+## Desarrollo local
 
 ```bash
 npm install
+npm run snapshot:data
 npm run dev
 ```
 
 Frontend: `http://127.0.0.1:5173`
 
-Backend: `http://127.0.0.1:8787`
+## Build local
 
-## Modo live
-
-Copiá `backend/.env.example` a `backend/.env` y cargá:
-
-```env
-TWITCH_CLIENT_ID=...
-TWITCH_CLIENT_SECRET=...
+```bash
+npm run build
 ```
 
-Con eso el backend deja de usar mocks y consulta IGDB.
+Ese comando regenera el snapshot antes de compilar.
 
-## Deploy en GitHub Pages
+## Actualizacion de datos
 
-Para GitHub Pages no hace falta backend en produccion.
-
-El workflow de [deploy-pages.yml](E:\Lucas\gamecalendar-clone\.github\workflows\deploy-pages.yml):
-
-- descarga datos reales desde la fuente publica
-- genera snapshots JSON en `frontend/public/data`
-- compila el frontend en modo estatico
-- publica el resultado en GitHub Pages
-
-Eso deja todo en un solo repo y una sola publicacion. La contra es que los datos no son en tiempo real: se actualizan cada vez que corre el workflow. Ya quedo programado tambien para correr semanalmente.
-
-Si queres regenerar el snapshot localmente:
+Para regenerar el snapshot manualmente:
 
 ```bash
 npm run snapshot:data
 ```
+
+El script falla si la API devuelve un snapshot vacio o invalido.
+
+## Deploy en GitHub Pages
+
+El workflow de [deploy-pages.yml](./.github/workflows/deploy-pages.yml):
+
+- instala dependencias
+- genera un snapshot fresco
+- compila el frontend
+- publica el resultado en GitHub Pages
+
+La publicacion sigue siendo estatica. Los datos se actualizan cuando corre el workflow por `push`, manualmente, o por el cron semanal.

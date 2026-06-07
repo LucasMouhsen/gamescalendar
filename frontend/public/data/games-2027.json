@@ -96,7 +96,30 @@
         "slug": "mac",
         "abbreviation": "MAC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "CyberQuest",
+        "summary": "Explora CyberQuest, donde tus decisiones te definen. Transforma de freelancer novato a hacker experto. Elige tu camino: white hat, black hat o hacktivista. ¡Acepta el desafío cibernético!",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 372392,
@@ -176,7 +199,26 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Varado en el Abismo",
+        "summary": "Stranded in the Abyss es un juego de disparos en un entorno sci-fi único. Comanda un vasto escuadrón de naves en una guerra interminable contra una rebelión maligna. Dispara y bombea tu camino a través de cientos de enemigos: luchadores, naves capitales y escaramuzas.",
+        "storyline": "La humanidad está acorralada en el abismo. Solo la coordinación militar y el poder de las naves pueden garantizar la supervivencia contra las fuerzas rebeldes.",
+        "genres": [
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 346183,
@@ -277,7 +319,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Réplica",
+        "summary": "Ponte en la piel de un veterano de combate. ¿Podrás manejar las dificultades de una vida de soledad?",
+        "storyline": "Nikolai, destrozado por su pasado como soldado, revivirá el mismo dolor día tras día. ¿Serás capaz de acompañarlo en este camino y enfrentar sus luchas, o todo terminará... en tragedia? Los recuerdos del pasado chocan con el presente, creando visiones distorsionadas donde la línea entre el hogar y el campo de batalla se vuelve cada vez más tenue. Tendrás que tomar decisiones que conducirán a diferentes finales. Pero, ¿y si la verdad no es lo que recuerdas?",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 391475,
@@ -403,7 +472,38 @@
         "slug": "mac",
         "abbreviation": "MAC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Enjambre Fragmentado",
+        "summary": "Shatterswarm es un shooter espacial 2D narrativo. Combina combate directo de naves, comando de flotas, defensa de torres y construcción de bases para una experiencia estratégica de supervivencia de colonias. Comanda la nave heroica de Captain Hope para defender el último bastión de la Tierra, The Citadel, contra el implacable Voxan Empire. Gestiona combates intensos, construye redes defensivas y recursos, y enfrenta enemigos variados como parásitos, naves nodrizas y robots. Desafía jefes de múltiples fases como Gordox, Gudrak y General Mortex. Tu estrategia es clave: ¿apostar por el poder de fuego, la defensa impenetrable o el equilibrio?",
+        "storyline": "La Tierra, alguna vez un planeta exuberante y lleno de vida, ahora es una ruina desolada y ardiente. Nos encaminamos hacia el planeta habitable más cercano, Proxima Centauri B, pero llegamos demasiado tarde. Los Voxans gobiernan el sistema solar con puño de hierro. Son una raza brutal y sedienta de poder. Miles de millones de esclavos de toda la galaxia alimentan su máquina de guerra, y si no tenemos cuidado, seremos sus próximos cautivos. Nos hemos asentado en una de las lunas de Proxima, que será nuestro hogar hasta que decidamos nuestros próximos pasos.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 11,
+            "name": "Estrategia en tiempo real (RTS)"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 395673,
@@ -438,7 +538,16 @@
         "slug": "switch-2",
         "abbreviation": "NS2"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Reanimal: El Mundo Expandido - Capítulo 3",
+        "summary": "Una emocionante aventura te espera. Descubre nuevos mundos y mejora tus habilidades.",
+        "storyline": "El destino de la humanidad recae sobre ti. Confróntate con males ancestrales y reconstruye la civilización.",
+        "genres": [],
+        "game_modes": []
+      }
+    }
   },
   {
     "id": 384353,
@@ -567,7 +676,30 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Despertar",
+        "summary": "Wake Up es un emocionante juego de aventuras 2D/3D creado por R16studio. Sumérgete en un mundo lleno de misterio, rompecabezas, terror psicológico y tensión, donde cada elección importa. ¿Estás listo para despertar y encontrar la verdad... o tal vez no?",
+        "storyline": "Despiertas en una habitación extraña sin recordar cómo llegaste allí. La habitación está llena de objetos extraños, rompecabezas y notas. Poco a poco, empiezas a desvelar la verdad sobre ti y tu pasado.\n\nAlex: el protagonista, el único experimento exitoso de un doctor siniestro.\nAmmy: esposa de Alex, lista para hacer cualquier cosa para salvarlo.\nEli: el hijo de Alex y Ammy.\nMysterios Man: un hombre misterioso que salvó a Alex y lo encerró en la habitación para protegerlo.\n\nAlex debe completar tareas, resolver rompecabezas y coleccionar documentos para confrontar al doctor.",
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 397883,
@@ -627,7 +759,16 @@
         "slug": "switch",
         "abbreviation": "NS"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Hexceed: Alphard",
+        "summary": "",
+        "storyline": "",
+        "genres": [],
+        "game_modes": []
+      }
+    }
   },
   {
     "id": 360602,
@@ -753,7 +894,26 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Kiipluu",
+        "summary": "Kiipluu es una aventura de sigilo hardcore ambientada en un brutal mundo neolítico. Cada encuentro es un tenso rompecabezas de supervivencia. Debes estudiar rutas de patrulla, usar la hierba alta, las sombras, el sonido y el terreno para permanecer oculto. Prepara trampas, ataca en emboscada o deslídate sin ser visto. Ser descubierto puede ser fatal rápidamente. Cuando el sigilo falla, el combate es rápido, brutal e implacable. Las armas son primitivas. Las heridas importan. No hay victorias fáciles. En el camino, Kiipluu está atormentado por viajes espirituales oníricos y visiones de su padre, un cazador legendario cuya sombra se cierne sobre cada elección. Tus decisiones moldearán quién sobrevive, quién se pierde y qué clase de persona se convertirá Kiipluu. Es una historia de miedo, supervivencia y madurar en un mundo que quiere matarte.",
+        "storyline": "Perseguido a través de un salvaje mundo neolítico por los caníbales Na’ush, Kiipluu debe sobrevivir usando sigilo, ingenio y nervios. Cada sombra es un lugar seguro. Cada error podría ser su último. A medida que el peligro se acerca y los espíritus acechan su camino, ¿logrará volver a casa... o será destruido por el viaje?",
+        "genres": [
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 398419,
@@ -847,7 +1007,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "El Sutra de Concreto #1",
+        "summary": "En un mundo postapocalíptico, dos amigos no se han visto en cinco años y regresan a casa en bicicleta. El primer episodio de un épico JRPG de acción de yeo.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 374617,
@@ -956,7 +1143,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Estaciones que giran",
+        "summary": "Una sim de granja/vida centrada en la exploración y la inmersión. No hay barra de resistencia ni herramientas rotas. Además de las normas del género, cuenta con cuatro mazmorras llenas de puzles, ubicaciones secretas, riego, hibridación genética, gatitos mafia y una bicicleta oxidada y querida. Guarda en cualquier momento. Juega a tu propio ritmo.",
+        "storyline": "Acabas de cumplir 18 años. Estás lista para dejar el orfanato y comenzar la vida como adulta independiente. Tu hermana está emocionada de ir contigo. Quiere ver el mundo, pero aún tiene 13 años. La directora te informa que debes demostrar que puedes mantener a tu hermana antes de poder adoptarla.\n\nNecesitas ingresos estables, un hogar seguro y madurez emocional. Actualmente, apenas tienes uno de los tres.\n\nLa directora te entrega un anuncio de trabajo. Una viuda reciente necesita ayuda con su terreno. Está lejos y apenas paga, pero es un comienzo. Tendrás que subir de nivel para que tú y tu hermana puedan estar juntas para siempre.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 349664,
@@ -1068,7 +1282,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Ceniza y Llama",
+        "summary": "Ash and Flame es un thriller cinemático interactivo ambientado en el oscuro mundo de fantasía de Erwintal. Eres Raynar, un veterano de guerra que vuelve a tomar su espada para enfrentarse a un mal antiguo. Tus decisiones moldearán el destino del reino: ceniza… o la llama de la esperanza.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 279621,
@@ -1208,7 +1449,30 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Éxodo",
+        "summary": "Exodus es una nueva franquicia épica de RPG de acción y aventura de ciencia ficción, desarrollada por el equipo de Archetype Entertainment. La historia se alimenta de las consecuencias de las elecciones del jugador debido al impacto de Time Dilation y cómo estas cambian la vida de quienes más amamos.",
+        "storyline": "En Exodus, la humanidad ha sido forzada a abandonar la Tierra y establecer una nueva civilización en una galaxia hostil. Los jugadores son el Traveler, una persona encargada de explorar sistemas solares lejanos en busca de tecnología alienígena avanzada. Lo que el Traveler cuenta en días, el resto de la humanidad lo vive en décadas. Con este concepto, las decisiones de los jugadores causarán efectos mariposa que se propagarán por el nuevo planeta de la humanidad, particularmente en la vida de sus seres queridos, y el Traveler los observará desarrollarse a lo largo de generaciones.",
+        "genres": [
+          {
+            "id": 12,
+            "name": "Juegos de rol"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 238718,
@@ -1350,7 +1614,46 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Nueve Asaltos Rápidos",
+        "summary": "Un shooter roguelike de cañón, super estilizado y de disparos twin stick. Disfruta de niveles de locura rápida, pintados a mano y generados proceduralmente, en un mundo lleno de estilo único y energía.",
+        "storyline": "Ambientado en una estación espacial fragmentándose y poseída, dos fugitivos (un underrabbit y un robot roto) deben intentar lo imposible. Deben llegar a la fuente de la posesión para reclamar su libertad y los botines.",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          },
+          {
+            "id": 2,
+            "name": "Multiplayer"
+          },
+          {
+            "id": 3,
+            "name": "Co-operative"
+          },
+          {
+            "id": 4,
+            "name": "Split screen"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 224728,
@@ -1455,7 +1758,30 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Super Pepino",
+        "summary": "Super Cucumber es un juego de acción-aventura inspirado en los 16 bits, lleno de plataformas precisas, habilidades desbloqueables y secretos por descubrir. Recorre más de seis torres, supera docenas de niveles, lucha contra jefes devorados y conviértete en el mejor Superhéroe Topillo del mundo.",
+        "storyline": "A conviértete en el mejor Superhéroe Topillo del mundo. ¡Tu misión es salvar el reino de las fuerzas oscuras y restaurar la paz!",
+        "genres": [
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 383457,
@@ -1555,7 +1881,30 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "En Cinta << Rebobinar",
+        "summary": "On Tape << Rewind es una historia de terror psicológico contada a través de cintas de casete. Reproduce grabaciones, busca pistas, descubre cassettes ocultos y manipula el audio. Desentraña el misterio de la desaparición de un científico y la obsesión que lo consumió, casete tras casete.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 389749,
@@ -1634,7 +1983,34 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Matchward",
+        "summary": "Defensa de torres potenciada por estrategia de puzle Match 3. Sube de nivel y desbloquea mejoras potentísimas. Diseña y comparte tus propios niveles.",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 15,
+            "name": "Estrategia"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 381202,
@@ -1760,7 +2136,38 @@
         "slug": "ps5",
         "abbreviation": "PS5"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "El Pastor Libre",
+        "summary": "Corre libremente como un perro pastor en un mundo hermoso pero perturbado. Guía grandes manadas de ovejas perdidas hacia un refugio secreto. Descubre una misteriosa calamidad que solo tú puedes detener.",
+        "storyline": "Leave the village and embark on a journey across the open plains. The world is suffering from a mysterious malady that affects both the flora and fauna. Your mission is to gather the lost community and find the source of the ailment.",
+        "genres": [
+          {
+            "id": 9,
+            "name": "Rompecabezas"
+          },
+          {
+            "id": 13,
+            "name": "Simulador"
+          },
+          {
+            "id": 31,
+            "name": "Aventura"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 350213,
@@ -1875,7 +2282,21 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Tsarevna: Edad de Cuentos",
+        "summary": "¡El primer slasher de acción inspirado en el ballet del mundo! Donde la gracia se convierte en violencia y la venganza consume el alma. Domina un combate fluido y impresionante, masacra a los siervos de la Oscuridad y únete a la guerra contra los dioses eslavos.",
+        "storyline": "",
+        "genres": [],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   },
   {
     "id": 334035,
@@ -1956,6 +2377,29 @@
         "slug": "pc",
         "abbreviation": "PC"
       }
-    ]
+    ],
+    "translations": {
+      "es": {
+        "name": "Al Vacío",
+        "summary": "Into The Void es un shooter retro de alta velocidad y acción. Sigue la historia de John Void, un hombre regresado de la muerte sin recuerdos. ¿Desvelarás los secretos de su vida? ¿O simplemente harás lo que te digan?",
+        "storyline": "",
+        "genres": [
+          {
+            "id": 5,
+            "name": "Disparos"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "game_modes": [
+          {
+            "id": 1,
+            "name": "Un jugador"
+          }
+        ]
+      }
+    }
   }
 ]

@@ -2,20 +2,15 @@
   "name": "gamecalendar-clone",
   "private": true,
   "version": "1.0.0",
-  "devDependencies": {
-    "concurrently": "^9.2.1"
-  },
   "workspaces": [
-    "frontend",
-    "backend"
+    "frontend"
   ],
   "scripts": {
     "install:all": "npm install --workspaces",
     "snapshot:data": "node scripts/generate-static-data.mjs",
-    "dev": "concurrently \"npm run dev --workspace backend\" \"npm run dev --workspace frontend -- --host 127.0.0.1\"",
+    "dev": "npm run dev --workspace frontend -- --host 127.0.0.1",
     "dev:frontend": "npm run dev --workspace frontend",
-    "dev:backend": "npm run dev --workspace backend",
-    "build": "npm run build --workspace frontend",
-    "start": "npm run start --workspace backend"
+    "build": "npm run snapshot:data && npm run build --workspace frontend",
+    "start": "npm run snapshot:data && npm run dev --workspace frontend -- --host 127.0.0.1"
   }
 }
