@@ -1,22 +1,26 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 
 :root {
-  --bg: #f5f7fb;
-  --fg: #18181b;
-  --muted: #52525b;
-  --card: #ffffff;
-  --popover: #ffffff;
-  --border: #e4e4e7;
-  --muted-surface: #f4f4f5;
-  --primary: #2563eb;
-  --warning: #f59e0b;
-  --error: #ef4444;
-  --success: #22c55e;
-  --info: #06b6d4;
-  --purple: #a855f7;
-  --badge-fg: #fafafa;
-  --secondary-1: #3f3f46;
-  --secondary-2: #27272a;
+  --bg: #17171b;
+  --bg-elevated: #1e1f24;
+  --fg: #f3f4f6;
+  --muted: #a1a1aa;
+  --card: #25262b;
+  --popover: #26272d;
+  --border: #3a3d46;
+  --border-strong: #494d58;
+  --muted-surface: #2b2d33;
+  --primary: #60a5fa;
+  --primary-soft: rgba(96, 165, 250, 0.12);
+  --warning: #c084fc;
+  --warning-soft: rgba(192, 132, 252, 0.14);
+  --error: #f87171;
+  --success: #86efac;
+  --info: #38bdf8;
+  --purple: #c084fc;
+  --badge-fg: #f8fafc;
+  --secondary-1: #3a3d46;
+  --secondary-2: #24262c;
   color-scheme: light;
   font-family: "Inter", sans-serif;
   font-size: 16px;
@@ -31,23 +35,51 @@
 }
 
 :root[data-theme="dark"] {
-  --bg: #18181b;
-  --fg: #e4e4e7;
+  --bg: #17171b;
+  --bg-elevated: #1e1f24;
+  --fg: #f3f4f6;
   --muted: #a1a1aa;
-  --card: #27272a;
-  --popover: #27272a;
-  --border: #3f3f46;
-  --muted-surface: #3f3f46;
+  --card: #25262b;
+  --popover: #26272d;
+  --border: #3a3d46;
+  --border-strong: #494d58;
+  --muted-surface: #2b2d33;
   --primary: #60a5fa;
-  --warning: #fbbf24;
+  --primary-soft: rgba(96, 165, 250, 0.12);
+  --warning: #c084fc;
+  --warning-soft: rgba(192, 132, 252, 0.14);
   --error: #f87171;
-  --success: #4ade80;
-  --info: #22d3ee;
+  --success: #86efac;
+  --info: #38bdf8;
   --purple: #c084fc;
-  --badge-fg: #18181b;
-  --secondary-1: #3f3f46;
-  --secondary-2: #18181b;
+  --badge-fg: #f8fafc;
+  --secondary-1: #3a3d46;
+  --secondary-2: #24262c;
   color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  --bg: #f4f4f5;
+  --bg-elevated: #ffffff;
+  --fg: #18181b;
+  --muted: #52525b;
+  --card: #ffffff;
+  --popover: #ffffff;
+  --border: #d4d4d8;
+  --border-strong: #c4c4cc;
+  --muted-surface: #f4f4f5;
+  --primary: #3b82f6;
+  --primary-soft: rgba(59, 130, 246, 0.1);
+  --warning: #9333ea;
+  --warning-soft: rgba(147, 51, 234, 0.1);
+  --error: #dc2626;
+  --success: #16a34a;
+  --info: #0284c7;
+  --purple: #9333ea;
+  --badge-fg: #f8fafc;
+  --secondary-1: #a1a1aa;
+  --secondary-2: #e4e4e7;
+  color-scheme: light;
 }
 
 * {
@@ -64,7 +96,9 @@ body,
 
 body {
   min-width: 320px;
-  -webkit-tap-highlight-color: rgba(37, 99, 235, 0.18);
+  background: var(--bg);
+  color: var(--fg);
+  -webkit-tap-highlight-color: rgba(96, 165, 250, 0.16);
 }
 
 button,

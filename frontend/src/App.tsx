@@ -56,6 +56,7 @@ const TRANSLATIONS = {
     previousMonth: "Previous month",
     nextMonth: "Next month",
     filters: "Filters",
+    moreFilters: "More",
     toggleFilters: "Toggle filters",
     minimumHype: "Minimum hype",
     hype: "Hype",
@@ -113,6 +114,7 @@ const TRANSLATIONS = {
     previousMonth: "Mes anterior",
     nextMonth: "Mes siguiente",
     filters: "Filtros",
+    moreFilters: "M\u00e1s",
     toggleFilters: "Mostrar u ocultar filtros",
     minimumHype: "Hype m\u00ednimo",
     hype: "Hype",
@@ -568,17 +570,11 @@ function App() {
               <span className="month-side__label">{formatMonth(previousMonth, locale)}</span>
             </div>
 
-            <h2 className="month-title">{formatMonth(currentMonth, locale)}</h2>
+            <div className="month-center">
+              <h2 className="month-title">{formatMonth(currentMonth, locale)}</h2>
+            </div>
 
             <div className="month-side month-side--right">
-              <button
-                type="button"
-                className={`month-today ${isCurrentMonth ? "month-today--disabled" : ""}`}
-                onClick={() => setCurrentMonth(currentCalendarMonth)}
-                disabled={isCurrentMonth}
-              >
-                {text.currentMonth}
-              </button>
               <span className="month-side__label">{formatMonth(nextMonth, locale)}</span>
               <button
                 type="button"
@@ -625,44 +621,6 @@ function App() {
               />
             </label>
 
-            {viewMode === "calendar" ? (
-              <>
-                <label className="filter-select-group">
-                  <span className="filter-select-label">{text.month}</span>
-                  <select
-                    className="filter-select"
-                    name="month"
-                    value={currentMonth.getMonth()}
-                    onChange={(event) => setCurrentMonthPart(currentMonth.getFullYear(), Number(event.target.value))}
-                    aria-label={text.month}
-                  >
-                    {monthOptions.map((monthOption) => (
-                      <option key={monthOption.value} value={monthOption.value}>
-                        {monthOption.label}
-                      </option>
-                    ))}
-                  </select>
-                </label>
-
-                <label className="filter-select-group">
-                  <span className="filter-select-label">{text.year}</span>
-                  <select
-                    className="filter-select"
-                    name="year"
-                    value={currentMonth.getFullYear()}
-                    onChange={(event) => setCurrentMonthPart(Number(event.target.value), currentMonth.getMonth())}
-                    aria-label={text.year}
-                  >
-                    {availableYears.map((year) => (
-                      <option key={year} value={year}>
-                        {year}
-                      </option>
-                    ))}
-                  </select>
-                </label>
-              </>
-            ) : null}
-
             <details className="filter-menu">
               <summary className="filter-pill filter-pill--blue filter-menu__trigger">
                 {text.platforms} ({selectedPlatforms.length})
@@ -674,23 +632,6 @@ function App() {
                     <label key={platform.id} className={`platform-option ${active ? "platform-option--active" : ""}`}>
                       <input type="checkbox" checked={active} onChange={() => togglePlatform(platform.id)} />
                       <span>{platform.name}</span>
-                    </label>
-                  );
-                })}
-              </div>
-            </details>
-
-            <details className="filter-menu">
-              <summary className="filter-pill filter-pill--blue filter-menu__trigger">
-                {text.genres} ({selectedGenres.length})
-              </summary>
-              <div className="platform-menu">
-                {sortedGenres.map((genre) => {
-                  const active = selectedGenres.includes(genre.id);
-                  return (
-                    <label key={genre.id} className={`platform-option ${active ? "platform-option--active" : ""}`}>
-                      <input type="checkbox" checked={active} onChange={() => toggleGenre(genre.id)} />
-                      <span>{genre.name}</span>
                     </label>
                   );
                 })}
@@ -728,6 +669,77 @@ function App() {
               <span aria-hidden="true">{text.resetIcon}</span>
               {text.reset}
             </button>
+
+            <details className="filter-menu filter-menu--secondary">
+              <summary className="filter-pill filter-pill--neutral filter-menu__trigger">
+                {text.moreFilters}
+              </summary>
+              <div className="platform-menu platform-menu--wide">
+                {viewMode === "calendar" ? (
+                  <div className="filter-stack">
+                    <button
+                      type="button"
+                      className={`filter-pill filter-pill--neutral ${isCurrentMonth ? "month-today--disabled" : ""}`}
+                      onClick={() => setCurrentMonth(currentCalendarMonth)}
+                      disabled={isCurrentMonth}
+                    >
+                      {text.currentMonth}
+                    </button>
+
+                    <label className="filter-select-group">
+                      <span className="filter-select-label">{text.month}</span>
+                      <select
+                        className="filter-select"
+                        name="month"
+                        value={currentMonth.getMonth()}
+                        onChange={(event) => setCurrentMonthPart(currentMonth.getFullYear(), Number(event.target.value))}
+                        aria-label={text.month}
+                      >
+                        {monthOptions.map((monthOption) => (
+                          <option key={monthOption.value} value={monthOption.value}>
+                            {monthOption.label}
+                          </option>
+                        ))}
+                      </select>
+                    </label>
+
+                    <label className="filter-select-group">
+                      <span className="filter-select-label">{text.year}</span>
+                      <select
+                        className="filter-select"
+                        name="year"
+                        value={currentMonth.getFullYear()}
+                        onChange={(event) => setCurrentMonthPart(Number(event.target.value), currentMonth.getMonth())}
+                        aria-label={text.year}
+                      >
+                        {availableYears.map((year) => (
+                          <option key={year} value={year}>
+                            {year}
+                          </option>
+                        ))}
+                      </select>
+                    </label>
+                  </div>
+                ) : null}
+
+                <div className="filter-stack filter-stack--full">
+                  <span className="filter-select-label">
+                    {text.genres} ({selectedGenres.length})
+                  </span>
+                  <div className="platform-menu__list">
+                    {sortedGenres.map((genre) => {
+                      const active = selectedGenres.includes(genre.id);
+                      return (
+                        <label key={genre.id} className={`platform-option ${active ? "platform-option--active" : ""}`}>
+                          <input type="checkbox" checked={active} onChange={() => toggleGenre(genre.id)} />
+                          <span>{genre.name}</span>
+                        </label>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+            </details>
           </div>
         </section>
 
